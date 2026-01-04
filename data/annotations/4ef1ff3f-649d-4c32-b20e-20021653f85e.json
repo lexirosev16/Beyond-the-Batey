@@ -127,6 +127,45 @@
         }
       ],
       "uuid": "29cf3790-28b8-4987-ba0b-7c199d69cc98"
+    },
+    {
+      "start_time": 1965,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Viento\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Viento",
+          "category": "song title"
+        },
+        {
+          "tag": "Escuela de Bomba y Plena Tata Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "La Familia Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "5639f6f7-bab2-43d7-a5d4-2f9f61c7f881"
     }
   ],
   "set": "Default",
