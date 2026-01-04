@@ -1016,10 +1016,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "hip-hop"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Tata Cepeda"
         },
         {
@@ -1037,7 +1033,7 @@
       ]
     },
     "created_at": "2026-01-04T06:01:24.296Z",
-    "updated_at": "2026-01-04T09:33:15.772Z",
+    "updated_at": "2026-01-04T09:33:18.859Z",
     "generate_pages_site": true
   },
   "annotations": {},
