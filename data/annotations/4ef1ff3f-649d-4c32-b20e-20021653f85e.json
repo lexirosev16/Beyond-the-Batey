@@ -340,6 +340,40 @@
         }
       ],
       "uuid": "dccdcaaa-14b5-4c3e-b42b-73f5767571bf"
+    },
+    {
+      "start_time": 0,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy buscando un arbol\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        },
+        {
+          "tag": "Margarita Tata Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        },
+        {
+          "tag": "Escuela de Bomba y Plena Tata Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "771ffefc-5bc3-4941-81b0-08e734ff561a"
     }
   ],
   "set": "Default",
