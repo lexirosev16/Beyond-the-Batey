@@ -163,7 +163,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Esa, Esa Domine\" (Modesto Cepeda)",
+              "text": "\"Esa, esa domine\" de La Familia Cepeda",
               "bold": true
             }
           ]
@@ -181,7 +181,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Esa, esa domine, ha estado "
+              "text": "Esa, esa domine"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa, esa domine"
             }
           ]
         },
@@ -215,144 +223,6 @@
           "children": [
             {
               "text": "mida al anses"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "de mí"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "en el que se queda la tranquilidad dice"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "la negra vélez empieza de la mesa"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "durante que toma mucho empleo"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Coro",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Esa, esa domine "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Verso",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Viva dice mi amigo con quien dice que"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "tanto él no trabaja con la culebra"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "que se llama a ver"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "one a la vez camino de guaymallen"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "llévame y sueño la manta"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "para volver a hacer"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "yo fui donde tu vida me dijo que tiempo"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "trabaja por la letra"
             }
           ]
         }
