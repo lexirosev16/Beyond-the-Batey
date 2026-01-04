@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Festivals",
   "slug": "bomba-festivals",
-  "updated_at": "2026-01-04T06:39:25.690Z",
+  "updated_at": "2026-01-04T07:20:26.832Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b"
-  }
+  },
+  "parent": "42d816ac-82d2-40d7-b898-767912b87b57"
 }
