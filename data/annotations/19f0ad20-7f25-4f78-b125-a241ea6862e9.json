@@ -208,6 +208,27 @@
         }
       ],
       "uuid": "4088066b-3048-4916-ac94-f9908fe20554"
+    },
+    {
+      "start_time": 6600,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "d2929e2a-218c-4c18-b7d3-c73926ad1e05"
     }
   ],
   "set": "Default",
