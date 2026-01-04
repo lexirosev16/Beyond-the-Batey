@@ -112,7 +112,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "La Familia Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Escuela de Bomba y Plena Tata Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Plere Maria",
+          "category": "song title"
+        }
+      ],
       "uuid": "29cf3790-28b8-4987-ba0b-7c199d69cc98"
     }
   ],
