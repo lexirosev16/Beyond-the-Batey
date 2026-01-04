@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "0cd7ca69-42dc-481f-b80b-011cd793f637": {
-      "label": "Encuentro de Cantaoras F",
+      "label": "F",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/2iNpSWPfnNw?si=mgCrUdkXGFkHRXJE",
@@ -10,7 +10,7 @@
       "set_sort": []
     },
     "0652271f-8b64-42d4-88af-ce73ad200ebb": {
-      "label": "Encuentro de Tambores B",
+      "label": "B",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/live/f355p8sBuYw?si=WajHURvDGxJvS35j",
@@ -19,7 +19,7 @@
       "set_sort": []
     },
     "2bc3c569-475c-4b80-b6c1-25578af61517": {
-      "label": "Encuentro de Tambores A",
+      "label": "A",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/rrwRJwRz6k0?si=pF--LhxrxHGQO1jG",
@@ -28,7 +28,7 @@
       "set_sort": []
     },
     "75d48a1a-da73-4668-8024-cf985e1da7df": {
-      "label": "ICP Encuentro de Tambores C",
+      "label": "C",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/mW_s_EKzxSc?si=a4m-dKAitHkUFKkK",
@@ -37,7 +37,7 @@
       "set_sort": []
     },
     "3aa650a3-4328-4511-a046-6821f95ab8ee": {
-      "label": "Magia de Tambores G",
+      "label": "G",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/live/LvBxHqv_np4?si=m6MeYJvnhSPXIjXj",
@@ -46,7 +46,7 @@
       "set_sort": []
     },
     "a5d71d27-1fca-4eab-b89d-edc8ba623308": {
-      "label": "Encuentro de Tambores D",
+      "label": "D",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/live/ZqLneQr250k?si=4z810aDCLRuIY5lK",
@@ -55,7 +55,7 @@
       "set_sort": []
     },
     "d9996e91-8244-46f1-a836-7431659c10fc": {
-      "label": "Encuentro de Tambores E",
+      "label": "E",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/live/Oh-Pq6Uwye8?si=ZzAMPVIR1g3cXf2d",
@@ -64,7 +64,7 @@
       "set_sort": []
     },
     "1764cf31-3c67-44cc-a876-d7d6614d0631": {
-      "label": "Encuentro de Cantaoras H",
+      "label": "H",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/IPOnmfXV3Eg?si=hL6zaP3Bmpd_Y3E0",
@@ -98,6 +98,6 @@
   ],
   "created_at": "2026-01-04T06:39:25.404Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-04T07:01:18.222Z",
+  "updated_at": "2026-01-04T07:08:00.003Z",
   "updated_by": "lexirosev16"
 }
