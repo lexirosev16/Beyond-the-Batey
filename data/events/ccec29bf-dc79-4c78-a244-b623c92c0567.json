@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "6f7abdbe-9cea-43a3-b682-3d82b1df5226": {
-      "label": "Zafra Fusion Cepeda (1983)",
+      "label": "Zafra Fusion Cepeda",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/c4nqwrXQ7go",
@@ -10,7 +10,7 @@
       "set_sort": []
     },
     "9fd408d3-ac79-4232-ad87-db2a69fc3f64": {
-      "label": "Resistimos (2021)",
+      "label": "Resistimos",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/01zKwBU4nAw?si=FCAGfIhzw32inRCd",
@@ -19,10 +19,10 @@
       "set_sort": []
     },
     "658c1de4-0062-4c3e-9df1-48d80c35222a": {
-      "label": "Raices (2001)",
+      "label": "Raices",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://youtu.be/7wCnrrN9Gak?si=b2p1kgrzSCeWurU_",
+      "file_url": "https://youtu.be/7wCnrrN9Gak?si=b2p1kgrzSCeWurU",
       "duration": 0,
       "caption_set": [],
       "set_sort": []
@@ -48,6 +48,6 @@
   ],
   "created_at": "2026-01-04T06:42:50.815Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-04T06:42:50.815Z",
+  "updated_at": "2026-01-04T07:04:29.536Z",
   "updated_by": "lexirosev16"
 }
