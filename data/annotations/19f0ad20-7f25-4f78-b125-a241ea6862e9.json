@@ -154,6 +154,28 @@
         }
       ],
       "uuid": "96b69168-23d5-458d-a639-88391275c97a"
+    },
+    {
+      "start_time": 5964,
+      "end_time": 6000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Esa es la domine\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "4088066b-3048-4916-ac94-f9908fe20554"
     }
   ],
   "set": "Default",
