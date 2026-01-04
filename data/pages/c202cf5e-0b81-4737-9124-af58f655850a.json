@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-01-04T06:42:50.964Z",
+  "created_by": "lexirosev16",
+  "title": "Bomba Films",
+  "slug": "bomba-films",
+  "updated_at": "2026-01-04T06:42:50.964Z",
+  "updated_by": "lexirosev16",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ccec29bf-dc79-4c78-a244-b623c92c0567"
+  }
+}
