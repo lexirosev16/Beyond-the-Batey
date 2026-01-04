@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5780,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "96b69168-23d5-458d-a639-88391275c97a"
+    }
+  ],
   "set": "Default",
   "event_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b",
   "source_id": "0652271f-8b64-42d4-88af-ce73ad200ebb"
