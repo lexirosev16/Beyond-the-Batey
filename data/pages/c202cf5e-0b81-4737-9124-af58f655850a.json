@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Films",
   "slug": "bomba-films",
-  "updated_at": "2026-01-04T06:42:50.964Z",
+  "updated_at": "2026-01-04T07:20:37.761Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "ccec29bf-dc79-4c78-a244-b623c92c0567"
-  }
+  },
+  "parent": "42d816ac-82d2-40d7-b898-767912b87b57"
 }
