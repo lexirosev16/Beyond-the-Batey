@@ -239,7 +239,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Verso",
+              "text": "Verso(s)",
               "bold": true
             }
           ]
@@ -249,6 +249,70 @@
           "children": [
             {
               "text": "Ay, agua, aguatile "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si Ponce tiene, no se porque "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, agua, agua "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay aguatile, aguatile "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque baila la bomba, hay aguatile "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si pide la golpe, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay agua, agua "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si pide piquetes,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay agua, agua"
             }
           ]
         },
