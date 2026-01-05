@@ -5669,7 +5669,7 @@
       "uuid": "be1d16fa-8698-4199-a609-ec2bfa466242"
     },
     {
-      "start_time": 2280,
+      "start_time": 2289,
       "end_time": 2340,
       "annotation": [
         {
@@ -5728,14 +5728,6 @@
           "children": [
             {
               "text": "Cuando Diego bailó hasta el cielo se nubló"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
             }
           ]
         },
