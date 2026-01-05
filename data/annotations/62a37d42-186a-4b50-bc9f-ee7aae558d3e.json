@@ -5667,6 +5667,82 @@
         }
       ],
       "uuid": "be1d16fa-8698-4199-a609-ec2bfa466242"
+    },
+    {
+      "start_time": 2275,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuando Diego bailó\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando Diego bailó, cuando Diego"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando Diego bailó hasta la tierra tembló"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que cosa grande senores que buen bailardor"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando Diego bailó hasta la tierra tembló"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "yubá",
+          "category": "genre"
+        },
+        {
+          "tag": "Cuando Diego bailo",
+          "category": "song title"
+        }
+      ],
+      "uuid": "ef128094-2d9a-4a4f-8178-6df0225cf7e2"
     }
   ],
   "set": "Default",
