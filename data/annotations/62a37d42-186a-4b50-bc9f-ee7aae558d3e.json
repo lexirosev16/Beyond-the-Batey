@@ -5669,7 +5669,7 @@
       "uuid": "be1d16fa-8698-4199-a609-ec2bfa466242"
     },
     {
-      "start_time": 2275,
+      "start_time": 2280,
       "end_time": 2340,
       "annotation": [
         {
@@ -5719,7 +5719,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Que cosa grande senores que buen bailardor"
+              "text": "Ay, cuando Diego bailó, cuando Diego bailó"
             }
           ]
         },
@@ -5727,7 +5727,31 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cuando Diego bailó hasta la tierra tembló"
+              "text": "Cuando Diego bailó hasta el cielo se nubló"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hasta la tierra tembló, hasta la tierra tembló"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando Diego bailó, hasta la lluvia llegó"
             }
           ]
         }
