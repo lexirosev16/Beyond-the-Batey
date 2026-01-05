@@ -162,7 +162,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Esa, esa Domine\" composed by Rafael Cepeda",
+              "text": "\"Esa, esa Dominé\" composed by Rafael Cepeda",
               "bold": true
             }
           ]
@@ -180,7 +180,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Esa, esa Domine"
+              "text": "Esa, esa Dominé"
             }
           ]
         },
@@ -188,7 +188,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Esa, esa Domine"
+              "text": "Esa, esa Dominé"
             }
           ]
         },
@@ -204,7 +204,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Verso(s)"
+              "text": "Versos",
+              "bold": true
             }
           ]
         },
@@ -212,7 +213,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Eso dile a Valentin, lo que le dice Manuel, "
+              "text": "Eso dile a Valentin, lo que dice Manuel"
             }
           ]
         },
@@ -220,7 +221,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Que no vaya pa'la bomba si no bailaba Paule"
+              "text": "Que no vaya pa' la bomba si no bailaba Paulé"
             }
           ]
         }
