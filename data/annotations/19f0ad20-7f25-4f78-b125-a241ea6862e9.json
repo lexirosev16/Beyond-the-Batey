@@ -1,1 +1,261 @@
-{"annotations":[{"start_time":5940,"end_time":6000,"annotation":[{"type":"paragraph","children":[{"text":"\"Leró de Mi Leró\" - Modesto Cepeda","bold":true}]},{"type":"paragraph","children":[{"bold":true,"text":"Coro"}]},{"type":"paragraph","children":[{"text":"Mi Leró de Mi Leró"}]},{"type":"paragraph","children":[{"text":"Para yo cantar "}]},{"type":"paragraph","children":[{"text":"Leró de Mi Leró "}]},{"type":"paragraph","children":[{"text":"Para yo bailar"}]},{"type":"paragraph","children":[{"text":"Coro","bold":true}]},{"type":"paragraph","children":[{"text":"Mi Leró, de Mi Leró"}]},{"type":"paragraph","children":[{"text":"Toca la maraca "}]},{"type":"paragraph","children":[{"text":"Toca de Yuba "}]},{"type":"paragraph","children":[{"text":"Suena la maraca"}]},{"type":"paragraph","children":[{"text":"Coro","bold":true}]},{"type":"paragraph","children":[{"text":"Mi Leró de Mi Leró"}]},{"type":"paragraph","children":[{"text":"Pa' Julian Mangual"}]},{"type":"paragraph","children":[{"text":"Coro","bold":true}]},{"type":"paragraph","children":[{"text":"Lero, lero,"}]},{"type":"paragraph","children":[{"text":"Lero de mi Lero pa' Julian Mangual"}]}],"tags":[{"tag":"Delegación de las Carolinas","category":"delegation"}],"uuid":"96b69168-23d5-458d-a639-88391275c97a"},{"start_time":5964,"end_time":6000,"annotation":[{"type":"paragraph","children":[{"text":"\"Esa, esa domine\" composed by Rafael Cepeda","bold":true}]},{"type":"paragraph","children":[{"bold":true,"text":"Coro"}]},{"type":"paragraph","children":[{"text":"Esa, esa domine"}]},{"type":"paragraph","children":[{"text":"Esa, esa domine"}]},{"type":"paragraph","children":[{"text":"Mi salvatore de mi ****"}]}],"tags":[{"tag":"Delegación de las Carolinas","category":"delegation"}],"uuid":"4088066b-3048-4916-ac94-f9908fe20554"},{"start_time":6600,"end_time":0,"annotation":[{"type":"paragraph","children":[{"text":""}]}],"tags":[{"tag":"Delegación de la Diáspora","category":"delegation"}],"uuid":"d2929e2a-218c-4c18-b7d3-c73926ad1e05"}],"set":"Default","event_id":"61328fdd-bda2-4c05-8917-ac2ad5b8270b","source_id":"0652271f-8b64-42d4-88af-ce73ad200ebb"}
+{
+  "annotations": [
+    {
+      "start_time": 5940,
+      "end_time": 6000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Leró de Mi Leró\" - Modesto Cepeda",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi Leró de Mi Leró"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para yo cantar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leró de Mi Leró "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para yo bailar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi Leró, de Mi Leró"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toca la maraca "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toca de Yuba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena la maraca"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi Leró de Mi Leró"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pa' Julian Mangual"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lero, lero,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lero de mi Lero pa' Julian Mangual"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "96b69168-23d5-458d-a639-88391275c97a"
+    },
+    {
+      "start_time": 5964,
+      "end_time": 6000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Esa, esa Domine\" composed by Rafael Cepeda",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa, esa Domine"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa, esa Domine"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi salvatore de viva mue"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso(s)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eso dile a Valentin, lo que le dice Manuel, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que no vaya pa'la bomba si no bailaba Paule"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "4088066b-3048-4916-ac94-f9908fe20554"
+    },
+    {
+      "start_time": 6600,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "d2929e2a-218c-4c18-b7d3-c73926ad1e05"
+    }
+  ],
+  "set": "Default",
+  "event_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b",
+  "source_id": "0652271f-8b64-42d4-88af-ce73ad200ebb"
+}
