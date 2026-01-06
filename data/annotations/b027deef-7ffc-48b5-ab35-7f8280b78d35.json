@@ -1106,7 +1106,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "In this segment an electric guitar melody can be heard and it transitions into the following partial song. The song soy libre of unknown author is political in nature commenting on the nature of freedom and colonialism in Puerto Rico by stating that the author is free like the rivers. Itx27s a powerful close to a film that touches on themes colonialism rather sparingly.  Soy Libre bY soy libre Libre como el río que en el mar desembocaLibre las palabras que saltan de mi boca. Libre decido y alcanzo lo que quiero Y aunque presto esté mi cuerpoEs mi mente la que elevo. Libre es el aire que respiro Desde el momento en que nazco Hasta el último suspiro. Libre como el suelo de una isla que se expande Libre es mi pueblo y ante balas no se rindeLibre y soy libreLibre y soy libre"
+              "text": "In this segment an electric guitar melody can be heard and it transitions into the following partial song. The song \"Soy Libre\" is political in nature commenting on the nature of freedom and colonialism in Puerto Rico by drawing comparisons of freedom in relation to ecology and culture. It is a powerful close to a film that touches on themes of colonialism rather sparingly.  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy Libre, soy libre. Libre como el río que en el mar desemboca. Libre las palabras que saltan de mi boca. Libre decido y alcanzo lo que quiero y aunque presto esté mi cuerpo. Es mi mente la que elevo. Libre es el aire que respiro desde el momento en que nazco. Hasta el último suspiro. Libre como el suelo de una isla que se expande. Libre es mi pueblo y ante balas no se rinde. Libre y soy libre. Libre y soy libre. "
             }
           ]
         }
@@ -1115,6 +1123,10 @@
         {
           "tag": "Welmo E. Romero Joseph",
           "category": "speaker"
+        },
+        {
+          "tag": "Soy Libre",
+          "category": "song title"
         }
       ],
       "uuid": "f68e809b-8135-4151-abb2-d13df8a62166"
