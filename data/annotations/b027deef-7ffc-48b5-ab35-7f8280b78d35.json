@@ -260,7 +260,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Cachón dice Elena” b (Lero) bCachón dice ElenaCachón dice ElenaAy Cachón dice Elenaque va a buscar la contrapa resguardarseCuando pase por GuayanillaQue venga de vuelta y viajeVa a buscar la contrapa resguardarseContext   b1950s recording which transitions into a professional commercial recording of Paracumbé with lead singer Nelie Robles Lebron from 1997. \n"
+              "text": "“Cachón dice Elena” (Lero) Cachón dice Elena. Cachón dice Elena. Ay Cachón dice Elena que va a buscar la contra pa resguardarse. Cuando pase por Guayanilla. Que venga de vuelta y viaje. Va a buscar la contra pa resguardarse. \"Cachon dice Elena\" first features a 1950s recording of early bomba which transitions into a professional commercial recording by Nelie Robles Lebron y Paracumbé from 1997. "
             }
           ]
         }
@@ -273,6 +273,10 @@
         {
           "tag": "Nellie LeBrón y Paracumbé",
           "category": "speaker"
+        },
+        {
+          "tag": "Cachon Dice Elena",
+          "category": "song title"
         }
       ],
       "uuid": "17d0babf-99ed-41f3-a657-f372cd6f78e3"
