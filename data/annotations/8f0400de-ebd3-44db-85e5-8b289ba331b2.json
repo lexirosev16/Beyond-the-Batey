@@ -224,27 +224,6 @@
       "uuid": "8a0d4cb5-3149-4963-8b0c-c05dea01b800"
     },
     {
-      "start_time": 4176,
-      "end_time": 3600,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "El Azul de mi Caribeb\nEl azul de mi Caribeel blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
-      "uuid": "b1f99976-fcd2-49b4-ad76-ee6d1380beb3"
-    },
-    {
       "start_time": 5760,
       "end_time": 41880,
       "annotation": [
