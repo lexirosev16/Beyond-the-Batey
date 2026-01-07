@@ -65,6 +65,31 @@
         }
       ],
       "uuid": "52df3a87-c559-4f91-a31b-f441ecb1ae8d"
+    },
+    {
+      "start_time": 559,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "holandé"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        }
+      ],
+      "uuid": "ad6825fb-9444-4cf0-82db-11a8356f6475"
     }
   ],
   "set": "Suite Bombastica para arpa y cello_Johanny Navarro_Annotations",
