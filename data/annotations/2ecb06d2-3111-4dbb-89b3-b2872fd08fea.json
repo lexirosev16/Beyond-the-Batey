@@ -20,6 +20,22 @@
         }
       ],
       "uuid": "b073cb9f-9935-4cab-a591-0cdb53441025"
+    },
+    {
+      "start_time": 22,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Images display instances of police brutality in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "378c120c-564d-4540-959c-ee6aa3ae3798"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
