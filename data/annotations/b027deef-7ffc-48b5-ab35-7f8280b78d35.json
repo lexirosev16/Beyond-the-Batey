@@ -1684,7 +1684,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "hip hop",
+          "category": "genre"
+        }
+      ],
       "uuid": "f45def14-58ba-4c0e-94ff-5fd525a7ab5f"
     },
     {
