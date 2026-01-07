@@ -332,8 +332,58 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Mama me voy pa' la bomba\"< i>",
-              "italic": true
+              "text": "Mamá me voy pa' la bomba\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mamá, mamá, me voy pa' la bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Echeme tu bendicion \nMamá, mamá, me voy pa' la bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cimarrón "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
             }
           ]
         }
@@ -342,6 +392,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Mama me voy pa' la bomba",
+          "category": "song title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
         }
       ],
       "uuid": "0a6d593d-6647-400c-ae84-c8c2aecb32aa"
