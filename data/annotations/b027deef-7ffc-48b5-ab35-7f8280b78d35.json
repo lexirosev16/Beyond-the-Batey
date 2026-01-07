@@ -458,8 +458,8 @@
       "uuid": "c8258b86-c8b7-4d9d-b975-7a91e94c2db0"
     },
     {
-      "start_time": 1280,
-      "end_time": 1435,
+      "start_time": 1327,
+      "end_time": 1380,
       "annotation": [
         {
           "type": "paragraph",
@@ -524,55 +524,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Van a la cocina y les rezan sus oraciones"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Rompen la camisa los calzoncillos los pantalones"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pobre de los hombres si las comidas se las componen"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Le echan huesos de puerco agua florida también le ponen"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ay madre querida ten cuidado con esos hombres"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Si son de Guayama en guisos ellas le ponen"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "En un vaso de agua todo el cuerpo le descomponen"
+              "text": ""
             }
           ]
         }
@@ -581,6 +533,14 @@
         {
           "category": "_uncategorized_",
           "tag": "gender"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
         }
       ],
       "uuid": "85d9e808-19f3-43eb-84fc-f6b0c81c6f65"
