@@ -1171,6 +1171,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Loiza"
         }
       ],
       "uuid": "56d64a4b-fcd3-420a-8e07-615c0908c245"
