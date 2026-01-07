@@ -295,6 +295,22 @@
         }
       ],
       "uuid": "b2292707-329d-424a-8ffb-7aa78bc2c7e3"
+    },
+    {
+      "start_time": 1684,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "John "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1859649a-1991-4647-be29-324be38e14ee"
     }
   ],
   "set": "Default",
