@@ -937,8 +937,50 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cunya Levedon\". Composed by Domingo Publico",
+              "text": "\"Cunyá Levedón\". Composed by Domingo Publico",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cunyá Levedón que adora dora dora"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cunyá Levedón que adora dora dora"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bailame la bomba "
             }
           ]
         }
@@ -947,6 +989,10 @@
         {
           "tag": "Delegación de los Cangrejos",
           "category": "delegation"
+        },
+        {
+          "tag": "José Emmanuelli y Bombazo de Puerto Rico",
+          "category": "speaker"
         }
       ],
       "uuid": "33a5f423-f74e-46eb-8a50-1228c1f6bb89"
