@@ -40,16 +40,6 @@
       "set_sort": [],
       "duration_overridden": true
     },
-    "a5d71d27-1fca-4eab-b89d-edc8ba623308": {
-      "label": "2024 Encuentro de Tambores",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://www.youtube.com/live/ZqLneQr250k?si=4z810aDCLRuIY5lK",
-      "duration": 14596,
-      "caption_set": [],
-      "set_sort": [],
-      "duration_overridden": true
-    },
     "d9996e91-8244-46f1-a836-7431659c10fc": {
       "label": "2025 Encuentro de Tambores",
       "is_offline": false,
@@ -89,6 +79,16 @@
       "set_sort": [],
       "file_type": "Video",
       "duration_overridden": true
+    },
+    "27b37046-a15e-4d8d-9bb7-a1cd0ff99b1d": {
+      "label": "2024 Encuentro de los Tambores",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/live/ZqLneQr250k?si=4z810aDCLRuIY5lK",
+      "duration": 14596,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Video",
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -108,7 +108,7 @@
     "2bc3c569-475c-4b80-b6c1-25578af61517",
     "0652271f-8b64-42d4-88af-ce73ad200ebb",
     "75d48a1a-da73-4668-8024-cf985e1da7df",
-    "a5d71d27-1fca-4eab-b89d-edc8ba623308",
+    "27b37046-a15e-4d8d-9bb7-a1cd0ff99b1d",
     "d9996e91-8244-46f1-a836-7431659c10fc",
     "8afa4d64-18c2-4419-9b9f-ec2b896f608e",
     "3aa650a3-4328-4511-a046-6821f95ab8ee",
@@ -117,6 +117,6 @@
   ],
   "created_at": "2026-01-04T06:39:25.404Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-07T01:55:54.591Z",
+  "updated_at": "2026-01-07T04:02:53.547Z",
   "updated_by": "lexirosev16"
 }
