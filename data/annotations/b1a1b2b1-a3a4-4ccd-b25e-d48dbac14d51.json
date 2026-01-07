@@ -1501,6 +1501,40 @@
               "text": "A mother dances bomba with her child on her hip. In Rio Piedras. "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Goza de la bomba\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Goza de la bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Goza"
+            }
+          ]
         }
       ],
       "tags": [
@@ -1511,6 +1545,10 @@
         {
           "category": "_uncategorized_",
           "tag": "gender"
+        },
+        {
+          "tag": "Goza de la bomba",
+          "category": "song title"
         }
       ],
       "uuid": "6ee96022-ccd9-45a7-ba66-f6c0b52531c3"
