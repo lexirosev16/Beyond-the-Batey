@@ -828,9 +828,10 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "754 participants of bomba gathering for the 10th Encuentro de los Tambores"
+              "text": "754 participants of bomba gathered for the 10th Encuentro de los Tambores."
             }
-          ]
+          ],
+          "align": "left"
         }
       ],
       "tags": [],
