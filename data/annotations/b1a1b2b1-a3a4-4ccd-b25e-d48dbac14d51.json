@@ -1494,6 +1494,42 @@
         }
       ],
       "uuid": "6ee96022-ccd9-45a7-ba66-f6c0b52531c3"
+    },
+    {
+      "start_time": 3261,
+      "end_time": 3280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo Bailare\" performed by the Delegation de Loiza",
+              "bold": true
+            },
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Coro ",
+              "bold": true
+            },
+            {
+              "text": "\nYo bailaré\nYo bailaré \nBaile esa bomba "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Loiza"
+        }
+      ],
+      "uuid": "4c5deff3-5058-4f55-a0f1-88c18c3b1383"
     }
   ],
   "set": "Resistimos_Annotations",
