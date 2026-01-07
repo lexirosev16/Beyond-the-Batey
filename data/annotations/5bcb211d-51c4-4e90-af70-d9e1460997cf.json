@@ -8,7 +8,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Discussion of the history of the Delegación de los Cangrejos"
+              "text": "Marien states that bomba has a powerful energy that unifies. She also discusses the history of the delegación de los Cangrejos (San Juan) "
             }
           ]
         }
@@ -21,6 +21,10 @@
         {
           "tag": "holandés",
           "category": "genre"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
         }
       ],
       "uuid": "16e4c47c-480d-4028-97dd-5477bdba4771"
