@@ -371,8 +371,20 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cimmaronaje\" Norka Hernandez Nadal Delegación de la Diáspora\n\n",
+              "text": "\"Cimmaronaje\" Norka Hernandez Nadal Delegación de la Diáspora\n",
               "bold": true
+            },
+            {
+              "text": "Corta la caña Manuel\nCorta la caña Manuel"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "\n"
             }
           ]
         }
