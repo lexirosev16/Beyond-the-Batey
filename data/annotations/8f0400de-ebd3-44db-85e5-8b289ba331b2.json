@@ -130,22 +130,6 @@
       "uuid": "3dcbc227-1861-4815-81b4-ccaadf2745b7"
     },
     {
-      "start_time": null,
-      "end_time": 3600,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "e02a1c9d-3147-4265-ad58-8122f7cd0f75"
-    },
-    {
       "start_time": 1260,
       "end_time": 1320,
       "annotation": [
