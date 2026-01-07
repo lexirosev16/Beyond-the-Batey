@@ -318,12 +318,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "José Archeval"
+              "text": "José Archeval director of the Delegación del Sur\n\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
       "uuid": "8294558a-cf2a-4b71-904d-2426cd8d4812"
     },
     {
