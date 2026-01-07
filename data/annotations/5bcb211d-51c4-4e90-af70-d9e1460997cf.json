@@ -414,6 +414,31 @@
         }
       ],
       "uuid": "066e3c42-c042-4715-b19c-05ee8b4560a8"
+    },
+    {
+      "start_time": 2090,
+      "end_time": 2100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "723be608-29b9-4c6b-a76c-f8b0f7e08cec"
     }
   ],
   "set": "Default",
