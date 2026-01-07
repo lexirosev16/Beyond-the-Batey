@@ -507,14 +507,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Compran de esos libros que les llaman de conexiones"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Versos",
               "bold": true
             }
@@ -524,7 +516,39 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Compran de esos libros que les llaman de conexiones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Descantamos "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Enamaros "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los adoramos "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quieran a los hombre"
             }
           ]
         }
