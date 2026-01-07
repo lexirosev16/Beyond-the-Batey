@@ -102,7 +102,87 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cuando baila la negrita\"< b> Verso 1\nQue viva la niñez y la juventud de Puerto Rico\nBravo cuando baila la negrita\nTrueno rayo tambor\nCuando baila la negrita lluvia al pulso Coro\nCuando baila la negrita trueno rayo tambor\nCuando baila la negrita sube al viento se mojó\nCuando baila la negrita suena el horario tambor\nCuando baila la negrita lluvia cielo tambor Verso 2\nCuando baila la negrita fen los rayos tambor\nCuando baila la alegrita al cielo se mojó Verso< b>\nLa negrita baila bomba yuba inspiró\nCada golpe del tambor se encendió en el corazón Coro\nCuando baila la negrita trueno rayo tambor\nCuando baila la negrita lluvia en el cielo Verso< b>\nCuando baila la negrita las estrellas brillan en chic\nBailó en la casita de Don Pedro la bomba y sonó Verso 3\nCuando baila la negrita tambor lluvia al viento\nSe mojó los tambores cuentan historia\nDe coraje y valor Puerto Rico yo te quiero\nY te canto de corazón Coro\nCuando baila la negrita rayos campos tambor\nCuando baila la alegrita al cielo se mojó\nCuando baila la negrita trueno oro tambor\nCuando baila la negrita sube al viento se mojó Verso 4\nCuando baila la negrita los rayos danzan\nCuando baila la alegrita al viento se mojó\nLa negrita baila bomba inspiró amor\nSe encendió en el corazón Coro\nCuando baila la negrita trueno rayos tambor\nCuando baila la negrita lluvia al viento se mojó\nCuando baila la negrita trueno rayo tambor\nCuando baila la negrita al viento se mojó Verso Final  Dedicatoria \n\n"
+              "text": "\"Cuando baila la negrita\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nCuando baila la negrita\nTrueno rayo tambor\nCuando baila la negrita "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lluvia ritmo \nSe mojó\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\n\nCuando baila la negrita suena el horario tambor\nCuando baila la negrita lluvia cielo tambor "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nLa negrita baila bomba yuba inspiró\nCada golpe del tambor se encendió en el corazón "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCuando baila la negrita las estrellas brillan en chic\nBailó en la casita de Don Pedro la bomba y sonó "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCuando baila la negrita tambor lluvia al viento\nSe mojó los tambores cuentan historia\nDe coraje y valor Puerto Rico yo te quiero\nY te canto de corazón "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCuando baila la negrita trueno oro tambor\nCuando baila la negrita sube al viento se mojó "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nCuando baila la negrita los rayos danzan\nCuando baila la alegrita al viento se mojó\nLa negrita baila bomba inspiró amor\nSe encendió en el corazón "
             }
           ]
         }
@@ -111,6 +191,18 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Cuando baila la negrita",
+          "category": "song title"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reflexive"
         }
       ],
       "uuid": "8e66fbc8-b45b-47fa-9f94-49577bdbfa89"
