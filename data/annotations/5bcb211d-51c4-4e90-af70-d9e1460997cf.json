@@ -156,7 +156,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
       "uuid": "fb536656-7b95-4f86-95fd-0fea8b78c9b2"
     }
   ],
