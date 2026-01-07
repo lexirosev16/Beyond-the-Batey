@@ -465,7 +465,114 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cuando las mujeres\" (Ponce). Cuando las mujeres quieren a los hombres. Cuando las mujeres quieren a los hombres. Prenden cuatro velas y se las ponen por los rincones. Compran de esos libros que les llaman de conexiones. Van a la cocina y les rezan sus oraciones. Cuando las mujeres quieren a los hombres. Prenden cuatro velas y se las ponen por los rincones. Rompen la camisa los calzoncillos los pantalones. Pobre de los hombres si las comidas se las componen. Cuando las mujeres quieren a los hombres prenden cuatro velas y se las ponen por los rincones. Le echan huesos de puerco agua florida también le ponen. Ay madre querida ten cuidado con esos hombres. Cuando las mujeres quieren a los hombres prenden cuatro velas y se las ponen por los rincones. Si son de Guayama en guisos ellas le ponen. En un vaso de agua todo el cuerpo le descomponen. Cuando las mujeres quieren a los hombres prenden cuatro velas y se las ponen por los rincones. "
+              "text": "\"Cuando las mujeres\" (Ponce)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando las mujeres quieren a los hombres"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando las mujeres quieren a los hombres"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prenden cuatro velas y se las ponen por los rincones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compran de esos libros que les llaman de conexiones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Van a la cocina y les rezan sus oraciones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rompen la camisa los calzoncillos los pantalones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pobre de los hombres si las comidas se las componen"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Le echan huesos de puerco agua florida también le ponen"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay madre querida ten cuidado con esos hombres"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si son de Guayama en guisos ellas le ponen"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En un vaso de agua todo el cuerpo le descomponen"
             }
           ]
         }
