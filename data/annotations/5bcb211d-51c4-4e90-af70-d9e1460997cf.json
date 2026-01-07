@@ -66,8 +66,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Liz Sara Diaz Nadal of the Delegación del Oeste",
+              "text": "Liz Sara Diaz Nadal of the",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Delegación del Oeste spans from La Sabana Grande to Isabella. This year they were motivated to participate as a result of Ramon Aller's tribute. "
             }
           ]
         }
