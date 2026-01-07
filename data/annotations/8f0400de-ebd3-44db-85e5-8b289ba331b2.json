@@ -416,27 +416,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Delegation del Cangrejos b"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
-      "uuid": "a16b0e78-3e52-4923-9043-429052b1ae59"
-    },
-    {
-      "start_time": null,
-      "end_time": null,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "\"San Mateo de Cangrejos\" performed by the Delegation del Cangrejos. Composed by Rafael Maya Alvarez ",
               "bold": true
             }
