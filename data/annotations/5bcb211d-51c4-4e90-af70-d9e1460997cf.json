@@ -225,12 +225,64 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Palo y Machete\" Carlos O. Padilla Caraballo"
+              "text": "\"Palo y Machete\" Carlos O. Padilla Caraballo",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manuel es un cimmaron "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con el machete cimmaron conta un revolucion "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
       "uuid": "0dd425bd-d332-4d4b-8f69-0016dd4ebc82"
     },
     {
