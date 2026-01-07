@@ -325,7 +325,50 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Preguntale a Martina\" John E. Rivera Rosa Delegacion de las Carolinas"
+              "text": "\"Preguntale a Martina\" John E. Rivera Rosa Delegacion de las Carolinas",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martina donde esta la marinero?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Martina donde esta los barrileros?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Robaron el sombrero "
             }
           ]
         }
