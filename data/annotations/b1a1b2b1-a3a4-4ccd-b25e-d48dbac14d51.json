@@ -8,12 +8,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Le Lo Lai; chicken sounds"
+              "text": "Marien sings \"le lo lai\" and chicken sounds are heard. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        }
+      ],
       "uuid": "e83700c4-c07d-43df-8cf3-dbb3db227f9b"
     },
     {
