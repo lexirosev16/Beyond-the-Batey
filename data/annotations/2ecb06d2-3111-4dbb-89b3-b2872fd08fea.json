@@ -68,6 +68,22 @@
       ],
       "tags": [],
       "uuid": "b1f5452a-0e4e-453c-8f0b-ab6a8fa7e416"
+    },
+    {
+      "start_time": 50,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the midst of protests, a couple dances the tango in streets torn apart by violence, a striking contrast."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b35de78-a13a-4cae-a844-5b0203ba1e5c"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
