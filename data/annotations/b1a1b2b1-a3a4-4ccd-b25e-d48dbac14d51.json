@@ -1112,21 +1112,59 @@
     },
     {
       "start_time": 3310,
-      "end_time": 3360,
+      "end_time": 3340,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Delegation of the Diaspora. Ivelisse Dias of La Escuelita de Bombera Corazon presents a solo. "
+              "text": "Unidentified bomba song",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los cimmarones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
       ],
       "tags": [
         {
-          "tag": "bomba",
-          "category": "genre"
+          "tag": "Ivelisse Diaz",
+          "category": "speaker"
+        },
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "5d0c62d2-b679-40b6-8715-c01c76e1dd9f"
