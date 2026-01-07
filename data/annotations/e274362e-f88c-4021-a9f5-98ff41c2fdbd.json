@@ -24,7 +24,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Y soy Francesca.\nSoy Ingrid, soy Fabiola"
+              "text": "Y soy Francesca.\nSoy Serena "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy Valerie Ann"
             }
           ]
         },
