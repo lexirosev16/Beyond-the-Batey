@@ -508,6 +508,27 @@
       ],
       "tags": [],
       "uuid": "7d576ddd-1245-4cde-a41b-51fbd38cb16f"
+    },
+    {
+      "start_time": 2389,
+      "end_time": 2400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marrien Torres discusses Norma Salazar "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "d444b4e7-5371-4694-b86f-71fe9a815f19"
     }
   ],
   "set": "Default",
