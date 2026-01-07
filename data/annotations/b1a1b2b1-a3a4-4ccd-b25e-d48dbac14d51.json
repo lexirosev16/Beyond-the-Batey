@@ -404,7 +404,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Diegetic saxophone music plays as images of La Fortaleza in Viejo San Juan are shown. The documentary then transitions into one of Marien Torres bomba classes. She is discussing her memory of being arrested in 1999 besides Normal Salazar. She is re-enacting the memory, thus illustrating a form of choreopolitics.  Part of the group acts as the protesters and the other groups re-enacts choreopolicing as their arm movements are indicative of the US military attempting to suppress the protesters."
+              "text": "Diegetic saxophone music plays over images of La Fortaleza in Viejo San Juan. The documentary then shifts into the bomba space led by Marien Torres, where she and her class function as a single embodied archive. Together, they revisit her memory of being arrested in 1999 alongside Normal Salazar. As Marien re-enacts the moment, the dancers around her extend and amplify the memory through movement, creating a collective form of choreopolitics."
             }
           ]
         },
@@ -412,17 +412,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Ellos han perturbado el nido de hormigas\"",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "bold": true,
-              "text": ""
+              "text": "In this shared practice, the group simultaneously embodies protesters and choreopolicing forces. Some dancers channel the rigidity of U.S. military presence, their arms shaped like rifles, while others move with the resistance and urgency of the Vieques demonstrators. The class becomes both the agents of suppression and the agents of defiance, revealing the tension between control and liberation through their bodies.\n“Ellos han perturbado el nido de hormigas.”"
             }
           ]
         }
@@ -439,6 +429,10 @@
         {
           "tag": "diegetic",
           "category": "instrumentation"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
         }
       ],
       "uuid": "c0c0c279-dd7a-4bbd-a674-dbf9f8cb233b"
