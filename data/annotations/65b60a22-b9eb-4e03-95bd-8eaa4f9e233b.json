@@ -1184,7 +1184,44 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yo nací mujer\" Compuesta por Ausuba< b> Verso 1\nYo nací mujer guerrera libre hermosa y aventurera\nCon mis manos en esta tierra\nYo soy la melaza yo soy hierba buena\nYo nací mujer guerrera libre hermosa y aventurera Coro\nSoy mujer taína soy mujer negra\nSoy mujer blanca y mi esencia entera\nYo nací mujer guerrera libre hermosa y aventurera\nFruto de un junte de raza bella Verso 2\nYo soy jíbarita puertorriqueña\nYo nací mujer guerrera libre hermosa y aventurera\nGuerra fuego viento y mar\nFirme y valiente yo soy calma y paz Coro\nMujer guerrera libre hermosa aventurera\nHija de la grande revolucionaria\nMadre de los hombres que hicieron patria\nMujer guerrera libre hermosa y aventurera Verso 3\nY con pantalones yo soy la doncella\nYo nací mujer fuerte y guerrera\nYo nací mujer guerrera libre hermosa y aventurera\nSoy mujer taína soy mujer negra\nSoy mujer blanca mi voz entera Coro\nYo nací mujer guerrera libre hermosa y aventurera\nFruto de un junte de raza bella\nYo soy antillana soy caribeña\nMujer guerrera libre hermosa y aventurera Verso Final\nSiempre con mis manos en esta tierra\nYo soy la melaza yo soy hierba buena\nMujer guerrera libre hermosa y aventurera\nYo nací mujer guerrera libre hermosa y aventurera \n\n"
+              "text": "\"Yo nací mujer\" Compuesta por Ausuba",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nYo nací mujer guerrera libre hermosa y aventurera\nCon mis manos en esta tierra\nYo soy la melaza yo soy hierba buena\nYo nací mujer guerrera libre hermosa y aventurera "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nSoy mujer taína soy mujer negra\nSoy mujer blanca y mi esencia entera\nYo nací mujer guerrera libre hermosa y aventurera\nFruto de un junte de raza bella "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nYo soy jíbarita puertorriqueña\nYo nací mujer guerrera libre hermosa y aventurera\nGuerra fuego viento y mar\nFirme y valiente yo soy calma y paz Coro\nMujer guerrera libre hermosa aventurera\nHija de la grande revolucionaria\nMadre de los hombres que hicieron patria\nMujer guerrera libre hermosa y aventurera \nY con pantalones yo soy la doncella\nYo nací mujer fuerte y guerrera\nYo nací mujer guerrera libre hermosa y aventurera\nSoy mujer taína soy mujer negra\nSoy mujer blanca mi voz entera \nYo nací mujer guerrera libre hermosa y aventurera\nFruto de un junte de raza bella\nYo soy antillana soy caribeña\nMujer guerrera libre hermosa y aventurera\nSiempre con mis manos en esta tierra\nYo soy la melaza yo soy hierba buena\nMujer guerrera libre hermosa y aventurera\nYo nací mujer guerrera libre hermosa y aventurera "
             }
           ]
         }
