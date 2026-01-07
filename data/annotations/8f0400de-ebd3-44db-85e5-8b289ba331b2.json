@@ -845,6 +845,28 @@
       ],
       "tags": [],
       "uuid": "f5e73fcb-3b67-4277-b487-dd0cec61f2f0"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 5820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo soy cimmaron\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Yo soy cimmaron",
+          "category": "song title"
+        }
+      ],
+      "uuid": "c5fe1647-cc03-4a63-b28c-ae925982f673"
     }
   ],
   "set": "Default",
