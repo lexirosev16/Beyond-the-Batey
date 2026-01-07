@@ -295,27 +295,6 @@
           "category": "genre"
         }
       ],
-      "uuid": "3b2b53f1-c53f-41dd-8d67-0c0b5f79ccd5"
-    },
-    {
-      "start_time": 5760,
-      "end_time": 41880,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Yo soy cimmaron bDelegacion del NortebbEstando en pie de luchayo soy cimarrón.\nLibertad o muerteyo soy cimarrón.\nEn pie de luchayo soy cimarrón.\nLibertad o muerteno soy esclavón.\nLibertad o muerteyo soy primero.Estamos en pie de lucha al ritmo de amor.\nEn pie de luchayo soy cimarrón.\nYo soy cimarrón.\nHe quitado las cadenasya borrado al mayor.\nSeguiremos en batalla hasta obtener la libertad.\nDe pie de luchayo soy cimarrón"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
       "uuid": "e14ddcba-7e6f-443c-869c-c4e50b36c9a2"
     },
     {
