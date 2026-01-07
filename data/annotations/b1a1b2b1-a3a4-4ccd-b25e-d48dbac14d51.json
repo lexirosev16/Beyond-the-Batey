@@ -544,7 +544,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Diegetic music plays as images of the ocean and the town Mayaguez plays"
+              "text": "Jazz music (using a saxophone and piano) plays as visuals of the town Mayaguez along with the ocean are shown."
             }
           ]
         }
@@ -552,6 +552,14 @@
       "tags": [
         {
           "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
           "category": "instrumentation"
         }
       ],
