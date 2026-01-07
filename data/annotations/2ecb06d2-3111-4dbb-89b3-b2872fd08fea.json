@@ -84,6 +84,22 @@
       ],
       "tags": [],
       "uuid": "7b35de78-a13a-4cae-a844-5b0203ba1e5c"
+    },
+    {
+      "start_time": 66,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous protester's body is torn restricted in four directions."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8bc34ac6-b599-4401-9036-5a2d3f017d90"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
