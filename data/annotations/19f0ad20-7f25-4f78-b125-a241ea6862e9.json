@@ -275,6 +275,27 @@
         }
       ],
       "uuid": "f6962224-0b8c-4f98-82da-76f2065a1f0f"
+    },
+    {
+      "start_time": 7920,
+      "end_time": 7980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of anti-racism"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "racism",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "84c8b55d-11cc-43fb-a901-65bc46ec39c3"
     }
   ],
   "set": "Default",
