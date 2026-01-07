@@ -261,14 +261,47 @@
       "uuid": "f7372416-f1f9-4087-b7e1-f235b3beb634"
     },
     {
-      "start_time": 292,
-      "end_time": 0,
+      "start_time": 291,
+      "end_time": 295,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "undefined"
+              "text": "\"Que toca de bomba\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que toca de plena "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La melodia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cual quiera "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa es mi cultura "
             }
           ]
         }
@@ -277,6 +310,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
         }
       ],
       "uuid": "983fec85-ff8e-49d2-8766-ac7c0f899241"
