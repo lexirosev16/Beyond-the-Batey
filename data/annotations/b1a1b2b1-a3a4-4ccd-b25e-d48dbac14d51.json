@@ -277,6 +277,14 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Son es la melodia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": "Suenan los tambores "
             }
           ]
@@ -286,14 +294,6 @@
           "children": [
             {
               "text": "Regalos Tata Cepeda"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Son es la melodia "
             }
           ]
         },
@@ -317,7 +317,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cual quiera "
+              "text": "Regalos Tata Cepeda"
             }
           ]
         },
@@ -326,6 +326,39 @@
           "children": [
             {
               "text": "Esa es mi cultura "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que toca de bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que toca de plena "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Regalos Tata Cepeda"
             }
           ]
         }
