@@ -673,7 +673,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien Torres discusses the impact of Puerto Rico's soundscape which consisted of chicken cries that changed after hurricane Maria and also how even these animals exemplify resilience. She also discusses how the water flooded her house and her new house which is quite empty"
+              "text": "Marien Torres discusses the impact of Puerto Rico's soundscape which consisted of chicken cries that changed after hurricane Maria and also how even these animals exemplify resilience. She also discusses how the water flooded her house. She shows the audience her new house which is quite empty. "
             }
           ]
         }
@@ -682,6 +682,14 @@
         {
           "tag": "Marien Torres Lopez",
           "category": "speaker"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
         }
       ],
       "uuid": "7acd30ed-7530-4359-8948-7d8d67456965"
