@@ -1208,7 +1208,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Contrario mi holandé\n\n"
+              "text": "Contrario mi holandé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contrario mi holandé\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es un cuestión de tiempo\n\n\n"
             }
           ]
         }
