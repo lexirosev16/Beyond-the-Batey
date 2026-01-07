@@ -98,14 +98,14 @@
       "uuid": "07634a3c-4b92-4111-a05b-9984f6634427"
     },
     {
-      "start_time": 117,
-      "end_time": 144,
+      "start_time": 169,
+      "end_time": 170,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "images of the ocean"
+              "text": "Visuals of the ocean."
             }
           ]
         }
