@@ -284,7 +284,65 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo soy cimmaron bDelegacion del NortebbEstando en pie de luchayo soy cimarrón.\nLibertad o muerteyo soy cimarrón.\nEn pie de luchayo soy cimarrón.\nLibertad o muerteno soy esclavón.\nLibertad o muerteyo soy primero.Estamos en pie de lucha al ritmo de amor.\nEn pie de luchayo soy cimarrón.\nYo soy cimarrón.\nHe quitado las cadenasya borrado al mayor.\nSeguiremos en batalla hasta obtener la libertad.\nDe pie de luchayo soy cimarrón"
+              "text": "Yo soy cimmaron Delegacion del Norte",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estando en pie de lucha soy cimarrón\nLibertad o muerte "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo soy cimarrón\nEn pie de lucha, yo soy cimarrón\nLibertad o muerte, yo soy esclavó no \nLibertad o muerte"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo soy cimmaron"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estamos en pie de lucha al ritmo de amor\nEn pie de lucha"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo soy cimarrón\nYo soy cimarrón\nHe quitado las cadenas "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya borrado al mayor\nSeguiremos en batalla hasta obtener la libertad\nDe pie de luchayo soy cimarrón"
             }
           ]
         }
@@ -293,6 +351,22 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Yo soy cimmaron",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación del Norte",
+          "category": "delegation"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
         }
       ],
       "uuid": "e14ddcba-7e6f-443c-869c-c4e50b36c9a2"
