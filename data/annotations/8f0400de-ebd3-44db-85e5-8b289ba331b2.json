@@ -867,6 +867,22 @@
         }
       ],
       "uuid": "c5fe1647-cc03-4a63-b28c-ae925982f673"
+    },
+    {
+      "start_time": 120,
+      "end_time": 7560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition between ensembles"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f66ab5d2-ad0b-42c6-951c-8b3639173791"
     }
   ],
   "set": "Default",
