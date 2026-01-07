@@ -200,6 +200,22 @@
       ],
       "tags": [],
       "uuid": "b09f85d3-a68e-42a4-b932-ddedd5996b44"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"De los padres de la bomba Anel Rivera Vazquez"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0c9a15fc-1868-4dde-a5b0-60683649c0f6"
     }
   ],
   "set": "Default",
