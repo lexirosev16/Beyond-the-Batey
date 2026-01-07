@@ -84,6 +84,22 @@
       ],
       "tags": [],
       "uuid": "1cc041e2-e737-47c1-a85d-6547331c0dd9"
+    },
+    {
+      "start_time": 205,
+      "end_time": 1833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits displayed"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "223c5b7f-f7dd-41fa-9224-dc26391ed1a4"
     }
   ],
   "set": "Default",
