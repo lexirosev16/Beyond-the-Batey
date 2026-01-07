@@ -375,7 +375,7 @@
               "bold": true
             },
             {
-              "text": "Corta la caña Manuel\nCorta la caña Manuel"
+              "text": "Corta la caña Manuel\nCaña no muero\nCorta la caña Manuel\nCorta la caña Manuel"
             }
           ]
         },
@@ -403,21 +403,28 @@
               "text": "Ay "
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "bold": true,
-              "text": "\n"
-            }
-          ]
         }
       ],
       "tags": [
         {
           "tag": "Delegación de la Diáspora",
           "category": "delegation"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
         }
       ],
       "uuid": "9b096619-12f1-4694-a9a8-d0dd5aae301c"
