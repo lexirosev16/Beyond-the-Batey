@@ -348,7 +348,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Delegación de Loíza\n\n"
+              "text": "\"Soy mas que un color de piel\" Shantille Quinones de Jesus of the Delegación de Loíza\n",
+              "bold": true
             }
           ]
         }
@@ -361,6 +362,14 @@
         {
           "tag": "Delegación de Loíza",
           "category": "delegation"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "e40532fb-d5b2-4463-80bc-7ae7b3310fac"
