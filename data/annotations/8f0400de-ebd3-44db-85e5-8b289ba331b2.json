@@ -804,6 +804,23 @@
       ],
       "tags": [],
       "uuid": "3abeb95c-ea4d-4d98-88fe-b4654aa516be"
+    },
+    {
+      "start_time": 6775,
+      "end_time": 6780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Dale Golpe\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f5e73fcb-3b67-4277-b487-dd0cec61f2f0"
     }
   ],
   "set": "Default",
