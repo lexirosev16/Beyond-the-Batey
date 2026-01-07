@@ -68,6 +68,22 @@
       ],
       "tags": [],
       "uuid": "82d12e9c-54eb-4961-b2e0-c588f91a0354"
+    },
+    {
+      "start_time": 189,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomba elder shown"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1cc041e2-e737-47c1-a85d-6547331c0dd9"
     }
   ],
   "set": "Default",
