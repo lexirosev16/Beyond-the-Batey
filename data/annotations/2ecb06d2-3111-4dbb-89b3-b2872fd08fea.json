@@ -278,6 +278,22 @@
       ],
       "tags": [],
       "uuid": "b1019c6c-4e70-4487-b70c-2afd7b8f0361"
+    },
+    {
+      "start_time": 170,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A line of police is shown as Residente flicks them off and a man carries the Venezuelan flag towards the seemingly impenetrable police line."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7682a21-d763-45ad-b568-1ca556408794"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
