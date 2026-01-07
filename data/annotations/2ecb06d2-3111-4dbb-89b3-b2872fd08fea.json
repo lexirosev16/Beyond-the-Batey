@@ -129,6 +129,22 @@
         }
       ],
       "uuid": "69ba33b9-e143-40f0-bf99-a18ee61940ac"
+    },
+    {
+      "start_time": 92,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Ricans lift palos (or historical sticks used within martial arts) as symbols of protest. Their identities are concealed by masks, except for their eyes."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cdf777ad-795f-4420-bc2d-8949e002e2e3"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
