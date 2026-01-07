@@ -326,6 +326,22 @@
       ],
       "tags": [],
       "uuid": "568e5bb9-5f5b-47b2-af6b-12dcf85119b1"
+    },
+    {
+      "start_time": 192,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mayan ruins are shown dislocated in contemporary Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9b440e4a-e951-40a5-a2a6-1a6ab436f931"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
