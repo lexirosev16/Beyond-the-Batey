@@ -984,7 +984,105 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Adiós que me voy  b(attributed to Mayaguez) Adiós que me voyque me voy para mi casaCoro bAdiós que me voyVerso bAy que ya me voyMe voy pax27 Loiza AldeaQue me voy por Guayama Ay que ya me voyAdios hijito del almaAdios mi hijo queridoAdios amigo queridoAy adios que ya me voy"
+              "text": "\"Adiós que me voy\" (attributed to Mayaguez) ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adiós que me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que me voy para mi casa"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adiós que me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que ya me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me voy para la Loiza Aldea"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que me voy por Guayama"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que ya me voy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adios hijito del alma"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adios mi hijo querido"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Adios amigo querido"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay adios que ya me voy"
             }
           ]
         }
