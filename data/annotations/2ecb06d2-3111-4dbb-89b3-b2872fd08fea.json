@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 7,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reference to Lolita Lebrón, a Puerto Rican nationalist who attempted to assassinate the presiding President of the United States of America in 1954, President Truman. She was thereafter incarcerated. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "b073cb9f-9935-4cab-a591-0cdb53441025"
+    }
+  ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
   "set": "This is not America by Residente",
   "source_id": "df09c10b-a67c-4482-95eb-c0ba3972d5bc"
