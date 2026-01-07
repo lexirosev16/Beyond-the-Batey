@@ -499,27 +499,6 @@
     },
     {
       "start_time": null,
-      "end_time": null,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Suena Ya! performed by the Delegación de la Diáspora (ArizonaBuffaloNYNew JerseyChicagoFloridaTijuana)b1 bAyai eh Ayai ehbSuena los tamboresque este baile es bomba  para gozarSuéname los tamboresy suéname los cuásque vamos a bailarbSuenasuena ya Suéname los tamboresque vamos a bailarVersobMandingo eh Mandingo eh Mandingo eh tambora bAhora bMandingo eh Mandingo eh Mandingo eh tamborabCuando baila este "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
-      "uuid": "8578fd0a-f39e-40cb-a855-e9db2f22bd60"
-    },
-    {
-      "start_time": null,
       "end_time": 60,
       "annotation": [
         {
