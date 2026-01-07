@@ -547,27 +547,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Oyyo quiero cantar - composed by Ishmael RodriguezbbYo quiero bailar bomba Suename los tambores bCuando suena los tamborespara que bailar la bomba sola baila bYo quiero cantar (yo quiero cantar)Yo quiero bailar bomba (yo quiero bailar bomba)XbbYo quiero cantar (yo quiero cantar)Yo quiero bailar bomba (yo quiero bailar bomba)Suename los tamboesTambo\u0007 rotaXbEsta bomba dedica "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
-      "uuid": "d1502edb-eac3-4671-b1c8-452ba4cdc3aa"
-    },
-    {
-      "start_time": null,
-      "end_time": null,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "\"Oy quiero cantar\".  Composed by Ishmael Rodriguez",
               "bold": true
             }
