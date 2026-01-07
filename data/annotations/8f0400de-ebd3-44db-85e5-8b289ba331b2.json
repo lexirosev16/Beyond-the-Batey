@@ -337,27 +337,6 @@
           "category": "genre"
         }
       ],
-      "uuid": "a531a8e0-2b36-4ffd-8e0f-4979a1c63440"
-    },
-    {
-      "start_time": null,
-      "end_time": null,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Delegation del Cangrejos b"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
       "uuid": "a16b0e78-3e52-4923-9043-429052b1ae59"
     },
     {
