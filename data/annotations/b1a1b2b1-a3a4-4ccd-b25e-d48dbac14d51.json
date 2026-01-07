@@ -521,19 +521,24 @@
       "uuid": "d9abe469-061a-4d79-bd1d-2f04fc25e837"
     },
     {
-      "start_time": 1125,
-      "end_time": 1140,
+      "start_time": 1010,
+      "end_time": 4725,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien Torres breastfeeds her child."
+              "text": "Marien Torres breastfeeds her child while discussing colonization and decolonization. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
       "uuid": "7339c95b-a91e-4291-8afb-eb9ae15d5a26"
     },
     {
