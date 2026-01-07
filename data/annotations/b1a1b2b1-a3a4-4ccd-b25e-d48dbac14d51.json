@@ -644,7 +644,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "More diegetic saxophone and piano music is played "
+              "text": "More diegetic saxophone and piano music is played accompanying images of urban life (cars ruins of buildings Puerto Rican flags and store fronts)."
             }
           ]
         }
@@ -656,6 +656,10 @@
         },
         {
           "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
           "category": "instrumentation"
         }
       ],
