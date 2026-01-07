@@ -57,6 +57,27 @@
       ],
       "tags": [],
       "uuid": "787ef6c5-3cf9-41b2-8aca-97aa3daafc28"
+    },
+    {
+      "start_time": 822,
+      "end_time": 1482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liz Nadal Delegacion del Oeste"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "57be2b35-53df-4c15-a1ef-daa74c967e38"
     }
   ],
   "set": "Default",
