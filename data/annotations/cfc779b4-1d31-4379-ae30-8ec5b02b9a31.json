@@ -1,8 +1,8 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 259,
+      "end_time": 260,
       "annotation": [
         {
           "type": "paragraph",
@@ -152,6 +152,10 @@
         },
         {
           "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "lyrics",
           "category": "analysis"
         }
       ],
