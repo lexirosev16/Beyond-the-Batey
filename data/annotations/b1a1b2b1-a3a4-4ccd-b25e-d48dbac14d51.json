@@ -1365,14 +1365,14 @@
       "uuid": "12a2c652-f81a-47a3-b2b6-2864e52feb7f"
     },
     {
-      "start_time": 1503,
-      "end_time": 0,
+      "start_time": 1553,
+      "end_time": 1560,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien is seen dancing bomba in her school (Taller Tambuye)"
+              "text": "Marien is seen dancing bomba in her school (Taller Tambuye). She is demonstrating both masculine and feminine bomba movements."
             }
           ]
         }
@@ -1381,6 +1381,10 @@
         {
           "tag": "Marien Torres Lopez",
           "category": "speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
         }
       ],
       "uuid": "0a675766-3e61-410e-aa1c-24227d32f21a"
