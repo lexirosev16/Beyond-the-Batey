@@ -445,7 +445,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hashlye S. Pérez Vega discusses his relationship to \"Yito,\" and his growing up surrounded by bomba  "
+              "text": "Hashlye S. Pérez Vega discusses his relationship to \"Yito\" and his growing up surrounded by bomba. "
             }
           ]
         }
@@ -454,6 +454,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Hashlye S. Pérez Vega",
+          "category": "speaker"
         }
       ],
       "uuid": "98e268f1-7df7-426b-a0a9-ff61abacf235"
