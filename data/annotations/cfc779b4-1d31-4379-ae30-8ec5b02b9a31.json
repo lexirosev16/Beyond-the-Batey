@@ -213,6 +213,39 @@
       ],
       "tags": [],
       "uuid": "ea22ab24-6389-4c37-a7dc-65631666065f"
+    },
+    {
+      "start_time": 200,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "0700532e-63bb-431f-bedf-194dd9ec3b55"
     }
   ],
   "set": "Huracan_Esoterica_Tropical_Annotations",
