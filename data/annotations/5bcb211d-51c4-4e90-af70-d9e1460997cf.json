@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"61328fdd-bda2-4c05-8917-ac2ad5b8270b","source_id":"75d48a1a-da73-4668-8024-cf985e1da7df"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of the history of the Delegación de los Cangrejos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "16e4c47c-480d-4028-97dd-5477bdba4771"
+    }
+  ],
+  "set": "Default",
+  "event_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b",
+  "source_id": "75d48a1a-da73-4668-8024-cf985e1da7df"
+}
