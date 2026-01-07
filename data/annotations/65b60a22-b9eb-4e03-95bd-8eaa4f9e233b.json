@@ -1013,7 +1013,72 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Candela Colorao\" Compuesta por Nurka Hernandez Nadal< b> [Verso] Voz cantando al dios del tambor un trueno se escucha desde lejos como señor de su manifestación. Y entre pasos aligerados voy entonando esta canción y entre pasos aligerados en la lluvia voy a cantar. [Coro  3x] Yo vine a la batalla ¡candela colorao candela colorao! No vine a la batalla ¡candela colora candela colorao! [Verso] Si en mi casa no hay guano yo lo quemo. [Coro  repite] [Verso] ¡Candela colora candela colorao! [Coro  repite] Si en mi tierra no hay guano ¡se coloca!"
+              "text": "\"Candela Colorao\" Compuesta por Nurka Hernandez Nadal"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voz cantando al dios del tambor un trueno se escucha desde lejos como señor de su manifestación"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y entre pasos aligerados voy entonando esta canción y entre pasos aligerados en la lluvia voy a cantar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo vine a la batalla ¡candela colorao candela colorao! No vine a la batalla ¡candela colora candela colorao!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si en mi casa no hay guano yo lo quemo. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Candela colora candela colorao! "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si en mi tierra no hay guano "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se coloca"
             }
           ]
         }
@@ -1022,6 +1087,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Candela Colorao",
+          "category": "song title"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
         }
       ],
       "uuid": "49f5dd6d-85e1-4eeb-a997-4f77c4d82d3d"
