@@ -460,6 +460,22 @@
         }
       ],
       "uuid": "0006fe8c-45e8-4b4d-9973-f071a584e83c"
+    },
+    {
+      "start_time": 2378,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Hija del Alma\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f3549f8c-319e-435d-83d2-9461e029e46e"
     }
   ],
   "set": "Default",
