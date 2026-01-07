@@ -316,6 +316,27 @@
         }
       ],
       "uuid": "1859649a-1991-4647-be29-324be38e14ee"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Preguntale a Martina\" John E. Rivera Rosa Delegacion de las Carolinas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "a75573cb-5925-440b-9584-972ca048e64b"
     }
   ],
   "set": "Default",
