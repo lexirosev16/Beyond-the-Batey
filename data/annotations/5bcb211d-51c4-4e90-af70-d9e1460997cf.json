@@ -251,7 +251,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"De los padres de la bomba Anel Rivera Vazquez"
+              "text": "\"De los padres de la bomba\". Composed by Anel Rivera Vazquez",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De los padres de la bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bailar"
             }
           ]
         }
