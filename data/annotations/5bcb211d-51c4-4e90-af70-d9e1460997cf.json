@@ -856,7 +856,7 @@
     },
     {
       "start_time": 1579,
-      "end_time": 1642,
+      "end_time": 1590,
       "annotation": [
         {
           "type": "paragraph",
@@ -876,6 +876,14 @@
         {
           "tag": "Delegación del Sur",
           "category": "delegation"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "holandé"
         }
       ],
       "uuid": "bce25174-a8a1-4bf1-ab90-64f781166c89"
