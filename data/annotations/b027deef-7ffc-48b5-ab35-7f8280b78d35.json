@@ -762,7 +762,120 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Estoy Buscando un Árbol”  (Santurce)  Estoy buscando un árbol que me de sombra Que me de sombra que me de sombra Estoy buscando un árbol que me de sombra Porque es que tengo calor a mi me da Estoy buscando un árbol que me de sombra ¡Ay! Que si está lindo que me deje besar Estoy buscando un árbol que me de sombra ¡Ay! Que si está bueno en mi soledad Estoy buscando un árbol que me de sombra ¡Ay! Que sea muy lindo como el ilán ilán Estoy buscando un árbol que me de sombra Que no me deje que tenga piedad Estoy buscando un árbol que me"
+              "text": "“Estoy Buscando un Árbol”  (Santurce)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que me de sombra "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque es que tengo calor a mi me da"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que si está lindo que me deje besar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me de sombra "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que si está bueno en mi soledad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay que sea muy lindo como el ilán ilán"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me de sombra"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que no me deje que tenga piedad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estoy buscando un árbol que me sombra"
             }
           ]
         }
@@ -775,6 +888,10 @@
         {
           "tag": "yubá",
           "category": "genre"
+        },
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
         }
       ],
       "uuid": "a5eb6637-0af3-4263-898f-ebb8fceb668c"
