@@ -232,6 +232,31 @@
       ],
       "tags": [],
       "uuid": "0dd425bd-d332-4d4b-8f69-0016dd4ebc82"
+    },
+    {
+      "start_time": 1451,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegación de Loíza\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Loiza"
+        },
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "e40532fb-d5b2-4463-80bc-7ae7b3310fac"
     }
   ],
   "set": "Default",
