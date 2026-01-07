@@ -852,14 +852,14 @@
       "uuid": "686b957a-6e94-4c30-8e7c-fea6691271ad"
     },
     {
-      "start_time": 2175,
+      "start_time": 2162,
       "end_time": 2316,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "All female bomba group playing at a bar in Rio Piedras. "
+              "text": "All female bomba group playing at a bar in Rio Piedras (Taller Tambuye). "
             }
           ]
         }
@@ -868,6 +868,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Taller Tambuye",
+          "category": "speaker"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
         }
       ],
       "uuid": "93a7fbb0-c6d5-40ec-82a4-e237e7708dfa"
