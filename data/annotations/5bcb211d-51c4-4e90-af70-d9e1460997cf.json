@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "16e4c47c-480d-4028-97dd-5477bdba4771"
+    },
+    {
+      "start_time": 367,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "229086fa-dacd-4bf4-845e-40e6c4636c52"
     }
   ],
   "set": "Default",
