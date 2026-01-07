@@ -978,7 +978,7 @@
     },
     {
       "start_time": 2490,
-      "end_time": 0,
+      "end_time": 2503,
       "annotation": [
         {
           "type": "paragraph",
@@ -993,6 +993,14 @@
         {
           "tag": "Cary Cepeda",
           "category": "speaker"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
         }
       ],
       "uuid": "4216642d-2735-4329-bb64-09ab137337e4"
