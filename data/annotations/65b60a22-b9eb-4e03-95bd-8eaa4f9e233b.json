@@ -1107,7 +1107,55 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Goza de la bomba\"  Ausuba < b> Verso 1\nAh goza gózate la bomba goza\nSi no sabes quién te canta es Asuba quien te toca\nGózate la bomba goza\nGózate la bomba goza Coro\nGo gózate la bomba goza\nCon Mariela nada menos ahí la bomba tú la gozas\nGoza goza la bomba goza\nAy goza gózate la bomba goza Verso 2\nGoza gózate la bomba\nY al ritmo con Joel y me voy\nTú la bomba de lo mar\nCon la bomba tú la gozas Coro\nGoza gózate la bomba goza\nAy goza goza goza goza\nCon Loíza y la cantadora\nGoza gózate la bomba goza Verso 3\nNunca linda que en el bate baila\nAhora que ahora fue gózate la bomba goza\nSi no sabes quién te canta\nGózate la bomba que si no sabes quién te canta es Toa Coro\nGoza gózate la bomba goza\nGózate la bomba goza\nGózate la bomba goza\nA la hora que ahora fue gózate la bomba goza Verso 4\nQue baile gózate la bomba goza\nCon Loíza y la cantadora\nGózate la bomba goza\nY gózate la bomba goza Coro\nGo la bomba goza\nAy goza goza goza goza\nGózate la bomba goza\nGózate la bomba goza \n"
+              "text": "\"Goza de la bomba\"  Ausuba",
+              "bold": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            },
+            {
+              "text": "\nAh goza gózate la bomba goza\nSi no sabes quién te canta es Asuba quien te toca\nGózate la bomba goza\nGózate la bomba goza Coro\nGo gózate la bomba goza\nCon Mariela nada menos ahí la bomba tú la gozas\nGoza goza la bomba goza\nAy goza gózate la bomba goza \nGoza gózate la bomba\nY al ritmo con Joel y me voy\nTú la bomba de lo mar\nCon la bomba tú la gozas "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            },
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Goza gózate la bomba goza\nAy goza goza goza goza\nCon Loíza y la cantadora\nGoza gózate la bomba goza "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nNunca linda que en el bate baila\nAhora que ahora fue gózate la bomba goza\nSi no sabes quién te canta\nGózate la bomba que si no sabes quién te canta es Toa Coro\nGoza gózate la bomba goza\nGózate la bomba goza\nGózate la bomba goza\nA la hora que ahora fue gózate la bomba goza \nQue baile gózate la bomba goza\nCon Loíza y la cantadora\nGo la bomba goza\nAy goza goza goza goza\nGózate la bomba goza\nGózate la bomba goza "
             }
           ]
         }
@@ -1116,6 +1164,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Goza de la bomba",
+          "category": "song title"
+        },
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
         }
       ],
       "uuid": "cd3785a3-8465-467e-bee6-6d65627b1a28"
