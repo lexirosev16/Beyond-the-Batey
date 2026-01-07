@@ -294,6 +294,22 @@
       ],
       "tags": [],
       "uuid": "d7682a21-d763-45ad-b568-1ca556408794"
+    },
+    {
+      "start_time": 176,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man playing the guitar and nueva cancion is shot by residente. His face already covered in blood as they stand in an American football stadium."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da8f3765-ff87-4535-ab56-81404032ff13"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
