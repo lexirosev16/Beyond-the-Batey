@@ -8,12 +8,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Reference to Lolita Lebrón, a Puerto Rican nationalist who attempted to assassinate the presiding President of the United States of America. "
+              "text": "Reference to Lolita Lebrón, a Puerto Rican nationalist who attempted to assassinate the presiding President of the United States of America in 1954, President Truman. She was thereafter incarcerated. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
       "uuid": "8a929dd2-baba-424a-97b7-943d2da50507"
     }
   ],
