@@ -326,7 +326,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Hija de alma\"",
+              "text": "\"Hija del alma\"",
               "bold": true
             }
           ]
@@ -344,7 +344,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hija de alma "
+              "text": "Hija del alma "
             }
           ]
         },
@@ -352,7 +352,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "(unintelligible) te dijo "
+              "text": "Mamá me dijo "
             }
           ]
         },
@@ -396,8 +396,8 @@
           "tag": "reflexive"
         },
         {
-          "tag": "distortion",
-          "category": "environment"
+          "category": "_uncategorized_",
+          "tag": "gender"
         }
       ],
       "uuid": "e2497164-aa7c-44c4-9d59-366ec4726b93"
