@@ -310,6 +310,22 @@
       ],
       "tags": [],
       "uuid": "da8f3765-ff87-4535-ab56-81404032ff13"
+    },
+    {
+      "start_time": 187,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous child sips coffee with a line of police behind him and then pours it out onto the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "568e5bb9-5f5b-47b2-af6b-12dcf85119b1"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
