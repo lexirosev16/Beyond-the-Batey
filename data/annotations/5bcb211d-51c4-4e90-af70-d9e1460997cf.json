@@ -437,8 +437,62 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Sesa se vre\". Composed by Hector Luis Rivera of the Delegación de la Diáspora",
+              "text": "\"Sesa se vre\". Composed by Hector Luis Rivera Ortiz of the Delegación de la Diáspora. ",
               "bold": true
+            },
+            {
+              "text": "\"Sesa se vre\" was composed in Creole, not in Spanish."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se sa se vre "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eske nou nube bezwen bambula "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sesa se vre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
             }
           ]
         }
