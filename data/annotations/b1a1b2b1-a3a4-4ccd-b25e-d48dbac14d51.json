@@ -397,14 +397,22 @@
       "uuid": "b9b1d422-3062-4121-907a-082f72ab1d46"
     },
     {
-      "start_time": 405,
+      "start_time": 395,
       "end_time": 412,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Diegetic saxophone music plays as images of La Fortaleza in Viejo San Juan are shown "
+              "text": "Diegetic saxophone music plays as images of La Fortaleza in Viejo San Juan are shown. The documentary then transitions into one of Marien Torres bomba classes. She is discussing her memory of being arrested in 1999 besides Normal Salazar. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
