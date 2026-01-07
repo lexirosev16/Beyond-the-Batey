@@ -1186,6 +1186,22 @@
         {
           "tag": "saxophone",
           "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
         }
       ],
       "uuid": "f327d6bd-0594-4608-b9a7-c67bfe039665"
