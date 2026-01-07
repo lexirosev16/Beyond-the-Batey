@@ -830,12 +830,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "In a car ride, Marien discussed civil rights, bomba, and gender issues."
+              "text": "In a car ride, Marien discusses civil rights, bomba, and gender issues."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
       "uuid": "686b957a-6e94-4c30-8e7c-fea6691271ad"
     },
     {
