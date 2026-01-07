@@ -609,7 +609,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Temporal"
+              "text": "\"Temporal\""
             }
           ]
         }
@@ -618,6 +618,10 @@
         {
           "tag": "plena",
           "category": "genre"
+        },
+        {
+          "tag": "Temporal",
+          "category": "song title"
         }
       ],
       "uuid": "50367c9a-1a52-427e-b734-acc5e2cb654e"
