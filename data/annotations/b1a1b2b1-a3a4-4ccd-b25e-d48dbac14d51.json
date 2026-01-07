@@ -236,21 +236,25 @@
       "uuid": "f9804160-4d05-4fc1-9a41-383b4d9a62e1"
     },
     {
-      "start_time": 255,
-      "end_time": 0,
+      "start_time": 230,
+      "end_time": 235,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "undefined"
+              "text": "Jesus Cepeda states that bomba was used to plan slave revolts. "
             }
           ]
         }
       ],
       "tags": [
         {
-          "tag": "Mario Cepeda",
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "Jesus Cepeda",
           "category": "speaker"
         }
       ],
