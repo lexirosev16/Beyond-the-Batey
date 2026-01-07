@@ -674,7 +674,18 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Hueso na’má” \nCoro\nHueso hueso na’ má\nHueso hueso na’ má \nHueso hueso na’ má\nDe a mi novia hueso na’ má\nVersos\nAy tanto envidia tanta vanidad \nAy  tanta envidia tanta falsidad \nSi tu lo que tienes es hueso na’ má"
+              "text": "“Hueso na’má” \nCoro",
+              "bold": true
+            },
+            {
+              "text": "\nHueso hueso na’ má\nHueso hueso na’ má \nHueso hueso na’ má\nDe a mi novia hueso na’ má\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nAy tanto envidia tanta vanidad \nAy  tanta envidia tanta falsidad \nSi tu lo que tienes es hueso na’ má"
             }
           ]
         }
@@ -691,6 +702,10 @@
         {
           "tag": "tiroteo",
           "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "c1cb7882-bb85-4127-a7ce-df132bbcb1fa"
