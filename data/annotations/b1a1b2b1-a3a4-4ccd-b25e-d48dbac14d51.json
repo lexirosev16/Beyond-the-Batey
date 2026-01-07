@@ -1169,6 +1169,35 @@
         }
       ],
       "uuid": "d6697a26-28f7-4515-90a4-b31eab049f4a"
+    },
+    {
+      "start_time": 790,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contrario "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mi holandé"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        }
+      ],
+      "uuid": "d3c57e7c-b0eb-44d2-af06-6c03a5c5420f"
     }
   ],
   "set": "Resistimos_Annotations",
