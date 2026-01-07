@@ -36,6 +36,22 @@
       ],
       "tags": [],
       "uuid": "75cc2a00-d254-4419-b9a8-5ccbe5473cb2"
+    },
+    {
+      "start_time": 95,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pasa Fina. Rauw Alejandro is riding a specific horse that originated in Spain and was imported into Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee9b3280-78f5-498e-836c-9de5e8f28f12"
     }
   ],
   "set": "Default",
