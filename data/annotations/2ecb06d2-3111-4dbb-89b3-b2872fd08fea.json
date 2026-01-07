@@ -209,6 +209,22 @@
       ],
       "tags": [],
       "uuid": "45032b46-2522-4b0b-a40c-cbebca400ebc"
+    },
+    {
+      "start_time": 138,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Residente is dressed in U.S. Army Special Forces military attire and stands with a man with a bullet hole. This is a reference to US military involvement in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c7767656-86dd-44a9-967c-3bc38c70cf54"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
