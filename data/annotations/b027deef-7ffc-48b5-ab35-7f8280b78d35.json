@@ -25,6 +25,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ecological"
         }
       ],
       "uuid": "8c211dfb-f790-4142-a938-15b41c389332"
