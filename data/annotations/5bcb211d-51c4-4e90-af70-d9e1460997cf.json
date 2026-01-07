@@ -840,6 +840,27 @@
         }
       ],
       "uuid": "24d26704-5bdd-4921-be2e-3d2fc7595c67"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien states that the significance of the Encuentros is that it creates a \"ripple effect.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "540d9cac-6d37-432e-b8e9-eafd56c8f786"
     }
   ],
   "set": "Default",
