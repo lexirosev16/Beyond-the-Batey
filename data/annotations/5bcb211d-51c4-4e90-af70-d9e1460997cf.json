@@ -928,6 +928,28 @@
         }
       ],
       "uuid": "540d9cac-6d37-432e-b8e9-eafd56c8f786"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cunya Levedon\". Composed by Domingo Publico",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "33a5f423-f74e-46eb-8a50-1228c1f6bb89"
     }
   ],
   "set": "Default",
