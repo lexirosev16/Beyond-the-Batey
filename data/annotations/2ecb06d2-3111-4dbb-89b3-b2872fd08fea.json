@@ -161,6 +161,22 @@
       ],
       "tags": [],
       "uuid": "1c25f729-518f-42a6-adee-7d750b513657"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An Afro-Latin woman's face is shown with a bullet hole, a reference to gun violence that disproportionately affects marginalized communities."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "23593e8d-5ccc-48d9-9c11-52d405f4c0a4"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
