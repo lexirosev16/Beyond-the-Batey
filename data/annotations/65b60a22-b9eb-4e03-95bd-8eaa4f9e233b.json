@@ -1433,7 +1433,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Igualdad libertad y respeto\"< b>\nVerso 1\nSiempre recordamos que la importancia del amor es mutua\nQue la libertad también es mutua\nY que también hay amor para todas para todos y para todas\nSiempre y cuando sea así Coro\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto Verso 2\nQue ya no somos las sumisas\nHoy grito a los cuatro vientos\nTengo voz tengo derecho\nIgualdad libertad y respeto Coro\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto Verso 3\nY ya no hay tiempo de parlamento\nNi pensar en remordimiento\nSe levanta un movimiento\nAl gobierno no me someto Coro Final\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto \n\n"
+              "text": "\"Igualdad libertad y respeto\"",
+              "bold": true
+            },
+            {
+              "text": "\nSiempre recordamos que la importancia del amor es mutua\nQue la libertad también es mutua\nY que también hay amor para todas para todos y para todas\nSiempre y cuando sea así\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nQue ya no somos las sumisas\nHoy grito a los cuatro vientos\nTengo voz tengo derecho\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nY ya no hay tiempo de parlamento\nNi pensar en remordimiento\nSe levanta un movimiento\nAl gobierno no me someto \nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto \n"
             }
           ]
         }
@@ -1446,6 +1450,10 @@
         {
           "tag": "Ausuba",
           "category": "speaker"
+        },
+        {
+          "tag": "Igualdad, libertad y respeto",
+          "category": "song title"
         }
       ],
       "uuid": "9218cf1e-0211-4b0f-835a-3b09e7c0d24c"
