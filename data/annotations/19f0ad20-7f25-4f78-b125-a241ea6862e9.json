@@ -363,6 +363,23 @@
               "text": "Baila esta bomba, baila conmigo "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hija de alma que yo te lo pido"
+            }
+          ]
         }
       ],
       "tags": [],
