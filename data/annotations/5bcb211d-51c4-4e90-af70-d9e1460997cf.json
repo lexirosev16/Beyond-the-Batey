@@ -99,6 +99,28 @@
         }
       ],
       "uuid": "cd5d51e2-0ef9-48f1-8f63-37b13a6b7b39"
+    },
+    {
+      "start_time": 1007,
+      "end_time": 1067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cimarron, Cimarrona\" Kily Vializ ",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "1fcd587e-e017-48a4-823b-d3e74b314943"
     }
   ],
   "set": "Default",
