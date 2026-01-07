@@ -935,7 +935,60 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yo soy del Oeste\"  < b> Llia Correa Verso 1\nSobre el mar Caribe emblema del encanto\nRepica mi corazón tambor al atardecer\nCon la puesta del sol de los puntos cardinales\nEn el oeste nací yo Viene mi ancestral mi estirpe de guerrera\nMi esencia y mi honor\nDe los puntos cardinales   En el oeste nací yo\nYo soy del Oeste como la fuerza del sol Coro\nSobre el mar Caribe repica mi corazón\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe repica mi corazón Verso 3\nLe canto a mi llano alegre\nMi cuevito perfumado el hogar de mi ancestra\nUna que me dio nacer\nYo soy del Oeste como la puerta del sol Coro\nSobre el mar Caribe repica mi corazón\nCon el vaivén de las olas de su playa y su mar \nCon sus palmas y manglares no dejaré de amar\nYo soy del Oeste como la fuerza del sol Verso 4\nSoy el mar Caribe mi corazón a flor\nHonrando por regalarme esa herencia\nDe repiques y barriles maracas y cua oyendo el son\nEn el oeste como la puesta del sol Coro\nSobre el mar Caribe repica mi corazón Verso< b>\nA la ciudad de las Lomas dedico un verso especial\nCiudad fundadora pueblo ese mi gran hermano Coro< b> Yo soy del Oeste como la fuerza del sol Verso 5\nConjuro el rumor del río mi terruño si natal\nSu pétalo de amapola y las olas bravas del mar\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe se repica mi corazón Verso 6\nEl azul más claro y hondo que yo he podido observar\nSe encuentra en el oeste de mi Caribe ancestral Coro< b>\nYo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón Verso 7\nAhora en este otro oeste allá en mi ciudad oral\nMi querido San Francisco y la misión mi comunidad Coro< b>\nYo soy como la fuerza del sol\nSobre el mar Caribe repica mi corazón Verso  < b>\nYo soy de tu costa recia de tu monte sin igual\nDe tu obra de arte celestial\nCoro< b> Yo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón Verso \nSiempre me ha regalado los besos del sol y el mar\nLa pulpa de guayaba y la flor del camboy Coro< b>\nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón Coro Final\nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón\n\n"
+              "text": "\"Yo soy del Oeste\" composed by Llia Correa ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso 1",
+              "bold": true
+            },
+            {
+              "text": "\nSobre el mar Caribe emblema del encanto\nRepica mi corazón tambor al atardecer\nCon la puesta del sol de los puntos cardinales\nEn el oeste nací yo Viene mi ancestral mi estirpe de guerrera\nMi esencia y mi honor\nDe los puntos cardinales   En el oeste nací yo\nYo soy del Oeste como la fuerza del sol "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nSobre el mar Caribe repica mi corazón\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe repica mi corazón "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso ",
+              "bold": true
+            },
+            {
+              "text": "\nLe canto a mi llano alegre\nMi cuevito perfumado el hogar de mi ancestra\nUna que me dio nacer\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe repica mi corazón\nCon el vaivén de las olas de su playa y su mar \nCon sus palmas y manglares no dejaré de amar\nYo soy del Oeste como la fuerza del sol \nSoy el mar Caribe mi corazón a flor\nHonrando por regalarme esa herencia\nDe repiques y barriles maracas y cua oyendo el son\nEn el oeste como la puesta del sol \nSobre el mar Caribe repica mi corazón \nA la ciudad de las Lomas dedico un verso especial\nCiudad fundadora pueblo ese mi gran hermano "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo soy del Oeste como la fuerza del sol \nConjuro el rumor del río mi terruño si natal\nSu pétalo de amapola y las olas bravas del mar\nYo soy del Oeste como la puerta del sol\nSobre el mar Caribe se repica mi corazón \nEl azul más claro y hondo que yo he podido observar\nSe encuentra en el oeste de mi Caribe ancestral \nYo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón \nAhora en este otro oeste allá en mi ciudad oral\nMi querido San Francisco y la misión mi comunidad\nYo soy como la fuerza del sol\nSobre el mar Caribe repica mi corazón \nYo soy de tu costa recia de tu monte sin igual\nDe tu obra de arte celestial\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón  \nSiempre me ha regalado los besos del sol y el mar\nLa pulpa de guayaba y la flor del camboy\nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón \nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón"
             }
           ]
         }
@@ -944,6 +997,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Yo soy del Oeste",
+          "category": "song title"
         }
       ],
       "uuid": "8aa5b9ae-e1e4-4d39-8936-fd8d1166db7c"
