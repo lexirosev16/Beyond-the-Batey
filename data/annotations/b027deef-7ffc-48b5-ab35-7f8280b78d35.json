@@ -1276,6 +1276,32 @@
         }
       ],
       "uuid": "4bd58432-13c9-4452-ac7d-a361f521764b"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Tanta Vanidad\" Plena Libre",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tanta vanidad",
+          "category": "song title"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        }
+      ],
+      "uuid": "dc550e6d-54b4-4877-b75e-2442c600d8ac"
     }
   ],
   "set": "Raices_Annotations",
