@@ -529,6 +529,22 @@
         }
       ],
       "uuid": "d444b4e7-5371-4694-b86f-71fe9a815f19"
+    },
+    {
+      "start_time": 2470,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses Afro-diasporic connections"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f202a9d2-fde8-4033-83f9-23441c294108"
     }
   ],
   "set": "Default",
