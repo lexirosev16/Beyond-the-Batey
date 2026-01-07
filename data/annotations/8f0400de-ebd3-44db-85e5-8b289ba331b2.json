@@ -210,7 +210,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "El Azul de mi Caribeb\nEl azul de mi Caribeel blanco de mi ilusión. El rojo de mi bandera tiene sangre de cimarrón."
+              "text": "\"El Azul de mi Caribe\"",
+              "bold": true
+            },
+            {
+              "text": "\nEl azul de mi Caribe"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El blanco de mi ilusión"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El rojo de mi bandera tiene sangre de cimarrón"
             }
           ]
         }
