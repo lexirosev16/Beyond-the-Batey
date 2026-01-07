@@ -36,6 +36,22 @@
       ],
       "tags": [],
       "uuid": "378c120c-564d-4540-959c-ee6aa3ae3798"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visuals reference unchecked gun violence in the US and abroad."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bf1db2ce-aabb-448e-a44d-8ecdf13d6f6e"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
