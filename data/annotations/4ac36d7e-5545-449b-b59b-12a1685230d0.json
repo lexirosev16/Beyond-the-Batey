@@ -52,6 +52,22 @@
       ],
       "tags": [],
       "uuid": "ee9b3280-78f5-498e-836c-9de5e8f28f12"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomberas dancing on a beach in Loiza, PR. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "82d12e9c-54eb-4961-b2e0-c588f91a0354"
     }
   ],
   "set": "Default",
