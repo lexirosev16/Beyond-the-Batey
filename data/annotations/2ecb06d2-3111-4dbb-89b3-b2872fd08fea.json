@@ -193,6 +193,22 @@
       ],
       "tags": [],
       "uuid": "e74b9a59-0843-417b-84dc-b402dc7073c9"
+    },
+    {
+      "start_time": 134,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous child dressed in traditional regalia and also barefoot sits atop a pile of McDonald's Happy Meals a reference both to food deserts commercialism and colonialism occurring in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "45032b46-2522-4b0b-a40c-cbebca400ebc"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
