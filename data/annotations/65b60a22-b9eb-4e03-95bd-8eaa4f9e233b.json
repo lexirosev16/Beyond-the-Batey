@@ -736,19 +736,55 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Verso < b>\nCulebra como canto Rafael domine domine\nEsa negra domine que trabaja la culebra como canto Rafael\nComo canto Rafael como canto Rafael Coro\nEsta negra baila bomba\nEsa negra domine domine\nEsta negra trabaja la culebra como Rafael\nQue trabaja la culebra como canto Rafael Verso\nEsta negra baila la bomba y se pica con los pies\nDominé dominé esa negra dominé\nTrabaja la culebra como Rafael\nLo deora borique la cantadora cantan bomba cantando Coro\nDomin domine domine domine\nQue trabaja la culebra como cantó Rafael\nQue trabaja la culebra como cantó Rafael\nQue trabaja la culebra como cantó Rafael\nComo cantó Rafael como cantó Rafael como cantó Rafael Verso \nLas negras cantan bombas como cantó Rafael\nComo cantó Rafael como mano Rafael\nLa negra bailan bomba aquí de mayel\nDominé esa negra dominé Coro\nQue trabaja la culebra como cantó Rafael\nDominé dominé esta dominé\nQue la culebra como cantó Rafael\nComo cantó Rafael como canto Rafael Verso \nEsa negra baila bomba\nEsa negra domin domin domin\nEsa negra domin que trabaja la culebra como canto Rafael\nQue trabaja la culebra como canto Rafael Coro\nLa negrita baila bomba\nEsta negra dominé dominé domin\nEsa negra domin que trabaja la culebra como canto Rafael\nDomin domin esa negra domin que trabaja la culebra  Verso Final  Dedicatoria\nUn aplauso para María Castillo\nOye una dedicación especial a Neli Tanco cantadora de la diáspora que falleció este año\nY que por muchos años fue la voz femenina que se veía en las tarimas de la diáspora\nEn cuanto a bomba y plena se refiere\nAsí que un aplauso a Neli Tanco y a nuestras ancestras que siguen vivas\nVida frágil y hoy nos falta una voz\nQue como un árbol dio sus frutos y la más... \n\n"
+              "text": "\"Dominé\" Aliz Maria Castillo",
+              "bold": true
+            },
+            {
+              "text": "\nDominé dominé\nEsa negra dominé que trabaja la culebra como canto Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            },
+            {
+              "text": "\nComo canto Rafael "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta negra baila bomba\nEsta negra dominé dominé\nEsta negra trabaja la culebra como Rafael\nQue trabaja la culebra como canto Rafael \nEsta negra baila la bomba y se pica con los pies\nDominé dominé esa negra dominé\nTrabaja la culebra como canto Rafael"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que trabaja la culuebra como canto Rafael"
             }
           ]
         }
       ],
       "tags": [
         {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
           "tag": "Esta es la domine",
           "category": "song title"
         },
         {
-          "tag": "bomba",
-          "category": "genre"
+          "category": "_uncategorized_",
+          "tag": "gender"
         }
       ],
       "uuid": "6b6bead7-8aad-4237-a826-1204b912bd06"
