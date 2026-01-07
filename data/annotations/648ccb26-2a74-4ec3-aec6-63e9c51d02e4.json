@@ -1,8 +1,8 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 271,
+      "end_time": 2072,
       "annotation": [
         {
           "type": "paragraph",
@@ -237,7 +237,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "lyrics",
+          "category": "analysis"
+        }
+      ],
       "uuid": "3c2dcf0f-66f8-4aff-8972-1698c6d55e79"
     }
   ],
