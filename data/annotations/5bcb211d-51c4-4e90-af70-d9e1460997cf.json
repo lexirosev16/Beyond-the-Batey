@@ -384,6 +384,28 @@
         }
       ],
       "uuid": "9b096619-12f1-4694-a9a8-d0dd5aae301c"
+    },
+    {
+      "start_time": 1950,
+      "end_time": 1980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Sese se vre\" Delegación de la Diáspora",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "066e3c42-c042-4715-b19c-05ee8b4560a8"
     }
   ],
   "set": "Default",
