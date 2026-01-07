@@ -241,7 +241,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Angel Chuco Rivera",
+          "category": "speaker"
+        }
+      ],
       "uuid": "1112a568-63bd-4b4d-989b-b02e5ecf39f2"
     },
     {
