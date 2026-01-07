@@ -215,7 +215,95 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Soy los elementos\"Compuesta por María  Verso\nSoy tierra.\nSoy aire.\nSoy agua.\nSoy fuego.\nCuando entro al batey yo me libero. Soy tierra \nsoy aire \nsoy agua \nsoy fuego.\nCuando entro al batey yo me libero. Soy río \nsoy montaña \nsoy cielo \nsoy deseo.\nCuando entro al batey con mis ancestros. Soy tierra \nsoy aire \nsoy agua \nsoy fuego.\nCuando entro al batey yo me libero. Soy agua \nsoy gotas \nsoy lluvia \nsoy hielo.\nCuando entro al batey fluyo con mis ancestros. [Coro]\nSoy tierra \nsoy aire \nsoy agua \nsoy fuego.\nCuando entro al batey yo me libero. [Verso]\nSoy tierra \nsoy arena \nsoy piedra \nsoy suelo.\nCuando entro al batey conecto con mis ancestros. [Coro]\nSoy tierra \nsoy aire \nsoy agua \nsoy fuego.\nCuando entro al batey yo me libero. [Verso]\nSoy fuego \nsoy llama \nsoy hoguera \nsoy candela.\nCuando entro al batey luz de mis ancestros. [Coro]\nSoy tierra \nsoy aire \nsoy agua \nsoy fuego.\nCuando entro al batey yo me libero. [Verso]\nSoy aire \nsoy viento \nsoy brisa \nsoy cielo.\nCuando entro al batey voy con mis ancestros. [Coro  repite 4x]\nSoy tierra \nsoy aire \nsoy agua \nsoy fuego.\nCuando entro al batey yo me libero."
+              "text": "\"Soy los elementos\" ",
+              "bold": true
+            },
+            {
+              "text": "Compuesta por Maríelis "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nSoy tierra\nSoy aire\nSoy agua\nSoy fuego\nCuando entro al batey yo me libero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy tierra \nsoy aire \nsoy agua \nsoy fuego\nCuando entro al batey yo me libero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy río \nSoy montaña \nSoy cielo \nSoy deseo\nCuando entro al batey con mis ancestros"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy agua \nSoy gotas \nSoy lluvia \nSoy hielo\nCuando entro al batey fluyo con mis ancestros"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSoy tierra "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy arena \nSoy piedra \nSoy suelo\nCuando entro al batey conecto con mis ancestros\n\nSoy fuego \nSoy llama \nSoy hoguera \nSoy candela\nCuando entro al batey luz de mis ancestros\n\nSoy aire \nSoy viento \nSoy brisa \nSoy cielo\nCuando entro al batey voy con mis ancestros"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nSoy tierra \nSoy aire \nSoy agua \nSoy fuego\nCuando entro al batey yo me libero"
             }
           ]
         }
