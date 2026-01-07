@@ -818,6 +818,27 @@
         }
       ],
       "uuid": "bce25174-a8a1-4bf1-ab90-64f781166c89"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of Southern bomba rhythms"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "24d26704-5bdd-4921-be2e-3d2fc7595c67"
     }
   ],
   "set": "Default",
