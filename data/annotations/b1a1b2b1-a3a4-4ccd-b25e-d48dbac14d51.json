@@ -1171,27 +1171,6 @@
     },
     {
       "start_time": 3391,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "diegetic music "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "saxophone",
-          "category": "instrumentation"
-        }
-      ],
-      "uuid": "c5570f0e-d1b2-4c32-a033-e51d1d073ce3"
-    },
-    {
-      "start_time": 3391,
       "end_time": 3443,
       "annotation": [
         {
