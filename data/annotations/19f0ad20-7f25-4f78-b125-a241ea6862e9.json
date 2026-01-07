@@ -296,6 +296,27 @@
         }
       ],
       "uuid": "84c8b55d-11cc-43fb-a901-65bc46ec39c3"
+    },
+    {
+      "start_time": 8640,
+      "end_time": 8760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of cultural pride. Discussion of \"entradas\" or entrances to the batey. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "3cc9a12a-0e7b-4953-a24e-db8f431755bf"
     }
   ],
   "set": "Default",
