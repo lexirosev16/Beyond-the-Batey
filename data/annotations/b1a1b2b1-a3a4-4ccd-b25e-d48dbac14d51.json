@@ -578,7 +578,48 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Song about hurricane Maria plays as images of someone's music production studio and audio editing software are shown"
+              "text": "The speaker's music production studio and audio editing software are shown. The man sings the following song which was performed at the Encuentro de Tambores in a previous year. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Somos semillas\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos semillas "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos las flores "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos la fruto de la bomba de nuestras ancestros."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
@@ -587,6 +628,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Somos semillas, somos el fruto de la bomba",
+          "category": "song title"
         }
       ],
       "uuid": "89e130a9-c3bb-405d-a79b-dab9ee202713"
