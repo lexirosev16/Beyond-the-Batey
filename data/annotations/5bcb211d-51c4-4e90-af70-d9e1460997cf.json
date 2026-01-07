@@ -792,6 +792,32 @@
       ],
       "tags": [],
       "uuid": "f202a9d2-fde8-4033-83f9-23441c294108"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Candela\" Julia Laporte",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Candela",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "bce25174-a8a1-4bf1-ab90-64f781166c89"
     }
   ],
   "set": "Default",
