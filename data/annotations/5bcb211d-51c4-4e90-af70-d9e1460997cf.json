@@ -273,6 +273,28 @@
       ],
       "tags": [],
       "uuid": "8294558a-cf2a-4b71-904d-2426cd8d4812"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Neco Flores y Sico Mangual\" Julia Laporte",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "b2292707-329d-424a-8ffb-7aa78bc2c7e3"
     }
   ],
   "set": "Default",
