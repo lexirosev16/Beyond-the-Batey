@@ -125,6 +125,22 @@
         }
       ],
       "uuid": "7cf304e0-32f0-44d6-851b-f1fb1dfc48e8"
+    },
+    {
+      "start_time": 62,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elder artesian carving coconuts."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0a7e9972-a2ef-4b78-9439-492639a78ac9"
     }
   ],
   "set": "Default",
