@@ -300,6 +300,31 @@
         }
       ],
       "uuid": "9fa44211-98a9-4315-97a3-335f9a822e73"
+    },
+    {
+      "start_time": 230,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Qué bendición lo que estoy viendo\nYa está amaneciendo\nLa luz en tu piel me está pidiendo\nQue te lo haga lento\nMa, tú no entiendes cuánto tú me gustas\nCuando bajas, me subes al cielo\nUna vida sin ti yo no quiero\nPensar en no tenerte me asusta, eh\nUn besito en la frente\nPor to lo que se vivió\nY si este momento nunca vuelve\nSé que no se desperdició\nOh-oh-oh, oh-oh-oh, oh-oh-oh, oh-oh-oh\nSomos eternos tú y yo\nOh-oh-oh, oh-oh-oh, oh-oh-oh, oh-oh-oh\nEternos (Ra-Rauw)\nEy, mami, tu alma es libre como primavera\nPa nuestro amor no existe frontera\nAmarrao a ti como cuero y madera\nSuena el barril, morena\nBaila, que el calor te suelte la tela\nNo nos vamos hasta que los pies nos duelan\nDanzando en tu areíto\nTierra prometida, quieres que me quede\nEl agua de tu flor hace que yo me eleve\nY al cielo llegue\nSe me cierra hasta el pecho\nEl día que no estés que nunca llegue\nSi tú te vas, que el fuego me queme\nQue el fuego me queme\nMa, tú no entiendes cuánto tú me gustas\nCuando bajas, me subes al cielo\nUna vida sin ti yo no quiero\nPensar en no tenerte me asusta, eh\nUn besito en la frente\nPor to lo que se vivió\nY si este momento nunca vuelve\nSé que no se desperdició\nOh-oh-oh, oh-oh-oh, oh-oh-oh, oh-oh-oh\nSomos eternos tú y yo\nOh-oh-oh, oh-oh-oh, oh-oh-oh, oh-oh-oh\nEternos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Besito en la frente",
+          "category": "song title"
+        },
+        {
+          "tag": "Rauw Alejandro",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "98732e6f-7844-4ef6-9db9-9c56ff883978"
     }
   ],
   "set": "Default",
