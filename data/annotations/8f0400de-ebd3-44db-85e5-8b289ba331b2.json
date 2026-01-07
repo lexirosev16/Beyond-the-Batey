@@ -520,7 +520,105 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "De Carolinab\nDelegacion de la Carolina References the song de Carolina por Rauw AlejandrobLa gente sabe que somos de la calleLa gente sabe que somos de la calleLa gente sabe que somos de la calleSomo\u0007 de Carolina y venimo\u0007 vira\u0007oSomo\u0007 de Carolina y venimo\u0007 vira\u0007oSomo\u0007 de Carolina y venimo\u0007 vira\u0007oSomo\u0007 de Carolina y venimo\u0007 vira\u0007oSomo\u0007 de CarolinaCarolinaCarolinaSomo\u0007 de Carolina y venimo\u0007 vira\u0007oSomo\u0007 de Carolina y venimo\u0007 vira\u0007oSomo\u0007 de Carolina y venimos vira\u0007oSomo\u0007 de Carolina-lina-lina bMira Mira Mira tumbeCarolina y Mayaguez Donde traje la bomba son pueblo de Mayaguez Carolina---MiraMiraMiraMira Tumbede pueblo de Mayaguezyo te traigo la bomba por Carolina a Mayaguez ese golpe Ay Mariacuembre hoy Carolina ii"
+              "text": "\"De Carolina\" Delegacion de la Carolina. References the song de Carolina por Rauw Alejandro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La gente sabe que somos de la calle"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La gente sabe que somos de la calle"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La gente sabe que somos de la calle"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos de Carolina y venimos virao"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos de Carolina y venimos virao"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos de Carolina y venimos virao"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carolina-lina-lina "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mira Mira Mira tumbe Carolina y Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donde traje la bomba son pueblo de Mayaguez Carolina"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mira Mira Mira Mira Tumbe de pueblo de Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo te traigo la bomba por Carolina a Mayaguez "
             }
           ]
         }
@@ -529,6 +627,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "De Carolina",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
         }
       ],
       "uuid": "337bc685-150d-443a-aece-2e0ca4c2c42c"
