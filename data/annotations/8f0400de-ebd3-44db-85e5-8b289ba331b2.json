@@ -463,7 +463,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "San Mateo de Cangrejos CangrejosSan Mateo de Cangrejos 3 bLinda bomba bCangrejosSan Mateo de Cangrejos 4 bSan Mateo de CangrejosSan Mateo de Cangrejos CangrejosSan Mateo de Cangrejos 5 bBaila ya bCangrejosSan Mateo de Cangrejos 6bSan Mateo de CangrejosSan Mateo de Cangrejos bCangrejosSan Mateo de Cangrejos "
+              "text": "San Mateo de Cangrejos Cangrejos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "San Mateo de Cangrejos "
             }
           ]
         }
@@ -472,6 +480,14 @@
         {
           "tag": "sicá",
           "category": "genre"
+        },
+        {
+          "tag": "San Mateo de Cangrejos",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
         }
       ],
       "uuid": "5789abb2-13f3-4b78-9586-1f6f0f68e1d0"
