@@ -197,6 +197,22 @@
       ],
       "tags": [],
       "uuid": "9def1fa8-3db3-4c68-b336-99561b2cb66a"
+    },
+    {
+      "start_time": 98,
+      "end_time": 3639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taino (indigenous) style masks."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ea22ab24-6389-4c37-a7dc-65631666065f"
     }
   ],
   "set": "Huracan_Esoterica_Tropical_Annotations",
