@@ -145,6 +145,22 @@
       ],
       "tags": [],
       "uuid": "cdf777ad-795f-4420-bc2d-8949e002e2e3"
+    },
+    {
+      "start_time": 102,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man lifts up a crucifix, possibly an allusion to liberation theology which was popular in the Americas during the late 1960s and early 1970s. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c25f729-518f-42a6-adee-7d750b513657"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
