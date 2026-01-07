@@ -190,12 +190,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Discussion of the sugar cane plantationsEpifanio Izatrrio"
+              "text": "Discussion of the sugar cane plantations by Epifanio Izarrio."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        }
+      ],
       "uuid": "8ead2093-db8c-495f-b1a2-28d32e2cce87"
     },
     {
