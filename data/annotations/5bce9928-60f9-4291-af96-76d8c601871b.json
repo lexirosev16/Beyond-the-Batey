@@ -44,6 +44,27 @@
         }
       ],
       "uuid": "2b863583-28ad-43d5-a0e9-3809a3394cc2"
+    },
+    {
+      "start_time": 350,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "52df3a87-c559-4f91-a31b-f441ecb1ae8d"
     }
   ],
   "set": "Suite Bombastica para arpa y cello_Johanny Navarro_Annotations",
