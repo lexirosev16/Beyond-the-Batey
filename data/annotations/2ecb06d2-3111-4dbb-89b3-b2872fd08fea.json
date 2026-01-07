@@ -103,18 +103,31 @@
     },
     {
       "start_time": 73,
-      "end_time": 74,
+      "end_time": 83,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Children are shown detained by fences and shouting."
+              "text": "Children are shown detained by fences and shouting. Then a woman possibly Afro-Latina is seen breastfeeding her baby through the barbed wire. Most likely, a reference to detention centers deportation and the terror and separation that they inflict on families. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
       "uuid": "69ba33b9-e143-40f0-bf99-a18ee61940ac"
     }
   ],
