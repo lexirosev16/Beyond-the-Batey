@@ -41,6 +41,22 @@
         }
       ],
       "uuid": "229086fa-dacd-4bf4-845e-40e6c4636c52"
+    },
+    {
+      "start_time": 606,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ramon \"Papo\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "787ef6c5-3cf9-41b2-8aca-97aa3daafc28"
     }
   ],
   "set": "Default",
