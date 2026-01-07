@@ -788,6 +788,22 @@
         }
       ],
       "uuid": "337bc685-150d-443a-aece-2e0ca4c2c42c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Se que rompe tambor\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3abeb95c-ea4d-4d98-88fe-b4654aa516be"
     }
   ],
   "set": "Default",
