@@ -510,7 +510,80 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Oyyo quiero cantar - composed by Ishmael RodriguezbbYo quiero bailar bomba Suename los tambores bCuando suena los tamborespara que bailar la bomba sola baila bYo quiero cantar (yo quiero cantar)Yo quiero bailar bomba (yo quiero bailar bomba)XbbYo quiero cantar (yo quiero cantar)Yo quiero bailar bomba (yo quiero bailar bomba)Suename los tamboesTambo\u0007 rotaXbEsta bomba dedica "
+              "text": "\"Oy quiero cantar\".  Composed by Ishmael Rodriguez",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero bailar bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suename los tambores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando suena los tambores para que bailar la bomba sola baila "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero cantar (yo quiero cantar)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero bailar bomba (yo quiero bailar bomba)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero cantar (yo quiero cantar)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero bailar bomba (yo quiero bailar bomba)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suename los tamboes"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores "
             }
           ]
         }
@@ -519,6 +592,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Oy, yo quiero cantar",
+          "category": "song title"
         }
       ],
       "uuid": "bd3a7b47-539d-4692-b757-d4fb0b6b1669"
