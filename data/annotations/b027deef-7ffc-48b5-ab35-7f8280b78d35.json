@@ -1101,27 +1101,6 @@
       "uuid": "22f99753-83ca-44fe-bff6-d62108879cbf"
     },
     {
-      "start_time": 2158,
-      "end_time": 2190,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Estoy buscando un arbol appears again"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "bomba",
-          "category": "genre"
-        }
-      ],
-      "uuid": "1f9ea2eb-70dc-4770-ae33-5fffc09332e3"
-    },
-    {
       "start_time": 2198,
       "end_time": 0,
       "annotation": [
