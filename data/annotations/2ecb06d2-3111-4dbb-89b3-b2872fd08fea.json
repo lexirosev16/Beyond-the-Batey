@@ -262,6 +262,22 @@
       ],
       "tags": [],
       "uuid": "c6d75854-bcc7-4ebf-8757-a0626c8e11c1"
+    },
+    {
+      "start_time": 164,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous half-dressed child tosses Amazon boxes into a dirty fountain. A reference to Amazon's exploitation of developing countries."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b1019c6c-4e70-4487-b70c-2afd7b8f0361"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
