@@ -160,6 +160,27 @@
         }
       ],
       "uuid": "25931ed1-c88d-4a79-bbc7-ef65eeece0fc"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man dancing in a falda."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
+        }
+      ],
+      "uuid": "b992c821-f52b-4d6a-86b6-50b2b755140a"
     }
   ],
   "set": "Huracan_Esoterica_Tropical_Annotations",
