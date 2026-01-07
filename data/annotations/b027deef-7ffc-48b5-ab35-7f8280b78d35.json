@@ -658,6 +658,10 @@
         {
           "tag": "Landié",
           "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "d1c9a24a-9a95-4d2f-bb3b-2321a3446698"
