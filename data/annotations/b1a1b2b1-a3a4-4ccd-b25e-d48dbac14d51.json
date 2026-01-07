@@ -1066,7 +1066,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Estoy llamando\" Delegación de las Carolinas"
+              "text": "\"Estoy llamando\" Delegación de las Carolinas",
+              "bold": true
             }
           ]
         },
