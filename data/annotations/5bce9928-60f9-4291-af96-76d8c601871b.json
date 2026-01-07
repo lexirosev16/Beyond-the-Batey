@@ -1,5 +1,30 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 273,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This piece uses a significant number of polyrhythms. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instrumentation includes harp, cello, and percussion. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fea33db6-6b38-4da5-85e7-85919f6fff56"
+    }
+  ],
   "set": "Suite Bombastica para arpa y cello_Johanny Navarro_Annotations",
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
   "source_id": "9339fa99-0393-41f9-be18-468ce54a8cc8"
