@@ -1258,7 +1258,39 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Yo no estoy sola\"< b> Verso 1\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones Coro\nVivo mi vida en colores vivo mi vida señores\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones Verso 2\nAl ritmo del buleador con el tiempo lo escuchan los bailadores\nPorque ya van a bailar con mi vida en colores\nRegalándole amores a todos los corazones\nA todos los corazones regalándole amores a todos los corazones Coro\nVivo mi vida en colores regalándole amor a todos los corazones\nPara todos los que me quieren les dedico esta canción\nA todos los que me quieren yo les brindo con amor Verso 3\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones\nYo no estoy sola vivo mi vida en colores\nRegando de amores a todos los corazones Coro\nY a todos los corazones a todos los corazones que bailen\nBailadores les regalo esta canción\nQue bailen con amor a todos los corazones Verso 4\nOye baila baila ahora\nA todos los corazones va esta canción\nTodos los corazones báilala de corazón\nA todos los corazones de corazón a todos los corazones Coro\nY lo baila con amor a todos los corazones\nPara que lo bailen los bailadores\nA todos los corazones que hagan el coro\nDonde está a todos los corazones Verso Final  Dedicatoria\nPara todos los que me quieren a todos los corazones\nYo les dedico la canción todo lo que me quiere\nLes entrego mi corazón a todos los corazones\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones \n\n"
+              "text": "\"Yo no estoy sola\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones\nYo no estoy sola vivo mi vida en colores\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nAl ritmo del buleador con el tiempo lo escuchan los bailadores\nPorque ya van a bailar con mi vida en colores\nRegalándole amores a todos los corazones\nA todos los corazones regalándole amores a todos los corazones \nVivo mi vida en colores regalándole amor a todos los corazones\nPara todos los que me quieren les dedico esta canción\nA todos los que me quieren yo les brindo con amor \nRegando de amores a todos los corazones\nY a todos los corazones a todos los corazones que bailen\nBailadores les regalo esta canción\nQue bailen con amor a todos los corazones \nOye baila baila ahora\nA todos los corazones va esta canción\nTodos los corazones báilala de corazón\nA todos los corazones de corazón a todos los corazones \nY lo baila con amor a todos los corazones\nPara que lo bailen los bailadores\nA todos los corazones que hagan el \nDonde está a todos los corazones "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dedicatoria",
+              "bold": true
+            },
+            {
+              "text": "\nPara todos los que me quieren a todos los corazones\nYo les dedico la canción todo lo que me quiere\nLes entrego mi corazón a todos los corazones\nYo no estoy sola vivo mi vida en colores\nRegalándole amores a todos los corazones \n\n"
             }
           ]
         }
