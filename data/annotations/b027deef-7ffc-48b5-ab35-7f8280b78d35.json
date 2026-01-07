@@ -220,6 +220,10 @@
         {
           "tag": "La Negra Triste",
           "category": "song title"
+        },
+        {
+          "tag": "Ruth Fernández",
+          "category": "speaker"
         }
       ],
       "uuid": "44f570e5-e26b-4a01-a87f-0fdaea64c0e9"
