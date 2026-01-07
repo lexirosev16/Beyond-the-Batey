@@ -114,28 +114,6 @@
       "uuid": "2612c2ef-5a31-4223-af55-ba9e37520d5d"
     },
     {
-      "start_time": 144,
-      "end_time": 0,
-      "annotation": [
-        {
-          "text": "Saxophone; jazz"
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "images of the ocean"
-        }
-      ],
-      "tags": [],
-      "uuid": "cc99197f-769e-4287-8ecb-a63367ad444d"
-    },
-    {
       "start_time": 188,
       "end_time": 200,
       "annotation": [
