@@ -360,7 +360,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Baila esta bomba, baila conmigo "
+              "text": "Baila esta bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baila conmigo "
             }
           ]
         },
@@ -377,7 +385,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hija de alma que yo te lo pido"
+              "text": "Ay hija del alma que yo te lo pido"
             }
           ]
         },
@@ -385,7 +393,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Que baila esta bomba, cantaré contigo"
+              "text": "Que baila esta bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cantaré contigo"
             }
           ]
         }
@@ -398,6 +414,10 @@
         {
           "category": "_uncategorized_",
           "tag": "gender"
+        },
+        {
+          "tag": "distortion",
+          "category": "environment"
         }
       ],
       "uuid": "e2497164-aa7c-44c4-9d59-366ec4726b93"
