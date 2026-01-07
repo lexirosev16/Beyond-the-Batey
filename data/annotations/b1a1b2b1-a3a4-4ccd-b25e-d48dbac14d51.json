@@ -254,27 +254,6 @@
           "category": "speaker"
         }
       ],
-      "uuid": "9eeac583-9b12-4d86-bc28-c0c816aa9912"
-    },
-    {
-      "start_time": 255,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Mario Cepeda",
-          "category": "speaker"
-        }
-      ],
       "uuid": "f7372416-f1f9-4087-b7e1-f235b3beb634"
     },
     {
