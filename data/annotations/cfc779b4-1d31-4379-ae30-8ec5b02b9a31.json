@@ -8,6 +8,15 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "\"Huracan\" Esoterica Tropical ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": "Llevaste lo que no sirve "
             }
           ]
@@ -16,7 +25,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ahora es el viento de cambio y acaso más pasar porti la colonia"
+              "text": "Ahora es el viento de cambio y acaso más pasar por la colonia"
             }
           ]
         },
@@ -24,7 +33,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Aahora qué despierta boricua "
+              "text": "Ahora qué despierta boricua "
             }
           ]
         },
@@ -56,7 +65,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Y nos vamos"
+              "text": "Y nos vamos a pagar"
             }
           ]
         },
@@ -64,7 +73,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Y no la vamos a para"
+              "text": "Y no la vamos a pagar"
             }
           ]
         },
@@ -72,7 +81,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "sí node modo que se quiere quedar y no nosvamos a dejar no nos vamos a alejar nosotros vamos a luchar y nosotros vamosa luchar nosotros vamos a luchar"
+              "text": "Sí node modo que se quiere quedar y no nos vamos a dejar no nos vamos a alejar nosotros vamos a luchar y nosotros vamosa luchar nosotros vamos a luchar"
             }
           ]
         },
@@ -80,7 +89,47 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Huracán las sombras la junta para el cara dura llevaste lo que no sirve losvientos de cambio que son más las parasacudir la colonia de piel no les importa tu vida rivero soberanía de la soberanía y la soberanía de la soberanía y verdad soberanía la libertad se cultiva tus sueños son las semillas para levantar nuestras fuerzas puestas grandes colectivade colectiva con estas grandes colectiva"
+              "text": "Huracán"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las sombras la junta para el carajo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dura llevaste lo que no sirve los vientos de cambio que son más las para sacudir la colonia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De piel no les importa tu vida "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De la soberanía y la soberanía de la soberanía y verdad soberanía"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La libertad se cultiva tus sueños son las semillas para levantar nuestras fuerzas puestas grandes colectivade colectiva con estas grandes colectiva"
             }
           ]
         },
@@ -104,7 +153,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Vamos a pagary no vamos a parar vamos a parar bieny "
+              "text": "No la vamos a pagar y no la vamos a pagar y no la vamos a pagar  "
             }
           ]
         },
@@ -112,7 +161,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "No la vamos a pagar la vamos a pagar "
+              "text": "No la vamos a pagar, no la vamos a pagar "
             }
           ]
         },
@@ -120,7 +169,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Vamos a parar estado de emergencia dio en se horizontal estado de emergencia "
+              "text": "Estado de emergencia violenica horizontal"
             }
           ]
         },
@@ -128,7 +177,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ni una mujer más de emergencia violencia horizontal estado de emergencia ni una mujer más pura al la junta bancaria y no la vamos a parar vamos a pagara la bailamos\n"
+              "text": "Estado de emergencia "
             }
           ]
         },
@@ -136,7 +185,63 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\n\n"
+              "text": "Ni una mujer más "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estado de emergencia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Violencia horizontal "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estado de emergencia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ni una mujer más"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ppura al la junta bancaria y no la vamos a parar vamos a pagara la bailamos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No vamos a pagar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pa Carajo a colonia."
             }
           ]
         }
@@ -157,6 +262,10 @@
         {
           "tag": "lyrics",
           "category": "analysis"
+        },
+        {
+          "tag": "Colonia",
+          "category": "song title"
         }
       ],
       "uuid": "25931ed1-c88d-4a79-bbc7-ef65eeece0fc"
