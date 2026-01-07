@@ -337,6 +337,31 @@
         }
       ],
       "uuid": "a75573cb-5925-440b-9584-972ca048e64b"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 1860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        },
+        {
+          "tag": "Ivelisse Diaz",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "a2ff94dc-0a95-4995-80ca-58f126aadf03"
     }
   ],
   "set": "Default",
