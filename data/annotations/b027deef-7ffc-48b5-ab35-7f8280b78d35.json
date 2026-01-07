@@ -1013,7 +1013,32 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Bombero Eh\" Loíza\nBombero eh\nBombero eh\nRepícame la bomba bombero eh \nRepica por aquí\nRepica por allá\nQue yo te cantaré\nBomba africana\nBombero eh\nBombero eh\nRepícame la bomba bombero eh\nLoíza tiene bomba bombera eh\nLoíza tiene bomba\nY yo la bailaré"
+              "text": "\"Bombero Eh\" Loíza",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nBombero eh\nBombero eh\nRepícame la bomba bombero eh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nRepica por aquí\nRepica por allá\nQue yo te cantaré\nBomba africana\nRepícame la bomba bombero eh\nLoíza tiene bomba bombera eh\nLoíza tiene bomba\nY yo la bailaré"
             }
           ]
         }
@@ -1034,10 +1059,6 @@
         {
           "category": "_uncategorized_",
           "tag": "Loiza"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
         }
       ],
       "uuid": "3cec91dc-8a18-4b50-a633-06f9e4c37ed8"
