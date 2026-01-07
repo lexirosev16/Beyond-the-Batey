@@ -1128,7 +1128,7 @@
       "uuid": "bf5fcba9-f0b0-400c-80f8-53b7ec16dbac"
     },
     {
-      "start_time": 571,
+      "start_time": 570,
       "end_time": 575,
       "annotation": [
         {
@@ -1138,9 +1138,31 @@
               "text": "La Sanse festivals are shown along with cabezudos."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"El sombrero de Yare\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi Sombrero de Yare"
+            }
+          ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "El Sombrero de Yare",
+          "category": "song title"
+        }
+      ],
       "uuid": "d6697a26-28f7-4515-90a4-b31eab049f4a"
     }
   ],
