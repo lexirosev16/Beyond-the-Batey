@@ -246,6 +246,22 @@
         }
       ],
       "uuid": "55c5ec76-53b5-4a7f-aa8e-b8a142fc305b"
+    },
+    {
+      "start_time": 150,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More guns are depicted in the air. A reference back to Childish Gambino's \"This is America.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c6d75854-bcc7-4ebf-8757-a0626c8e11c1"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
