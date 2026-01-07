@@ -1023,6 +1023,22 @@
         }
       ],
       "uuid": "b3edaa4a-d512-4369-ba21-43a1ce4c723d"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of southern rhythms. Belen and cuembe are Southern bomba rhythms."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "109a1bc5-41f3-45be-8be0-86aff5c289e8"
     }
   ],
   "set": "Default",
