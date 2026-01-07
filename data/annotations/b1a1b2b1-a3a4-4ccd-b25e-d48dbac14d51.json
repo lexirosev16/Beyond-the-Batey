@@ -397,14 +397,14 @@
       "uuid": "b9b1d422-3062-4121-907a-082f72ab1d46"
     },
     {
-      "start_time": 395,
+      "start_time": 400,
       "end_time": 412,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Diegetic saxophone music plays as images of La Fortaleza in Viejo San Juan are shown. The documentary then transitions into one of Marien Torres bomba classes. She is discussing her memory of being arrested in 1999 besides Normal Salazar. "
+              "text": "Diegetic saxophone music plays as images of La Fortaleza in Viejo San Juan are shown. The documentary then transitions into one of Marien Torres bomba classes. She is discussing her memory of being arrested in 1999 besides Normal Salazar. She is re-enacting the memory, thus illustrating a form of choreopolitics.  Part of the group acts as the protesters and the other groups re-enacts choreopolicing as their arm movements are indicative of the US military attempting to suppress the protesters."
             }
           ]
         },
@@ -412,6 +412,16 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "\"Ellos han perturbado el nido de hormigas\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
               "text": ""
             }
           ]
@@ -420,6 +430,14 @@
       "tags": [
         {
           "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "diegetic",
           "category": "instrumentation"
         }
       ],
