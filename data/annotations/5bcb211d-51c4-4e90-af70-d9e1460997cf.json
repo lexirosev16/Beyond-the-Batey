@@ -138,6 +138,14 @@
               "text": "Yo soy cimarrón "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y me voy pa la monte"
+            }
+          ]
         }
       ],
       "tags": [
