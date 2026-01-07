@@ -492,6 +492,22 @@
       ],
       "tags": [],
       "uuid": "348e543c-a231-40a8-96e7-a353c84dbe42"
+    },
+    {
+      "start_time": 2368,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "754 participants of bomba gathering for the 10th Encuentro de los Tambores"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7d576ddd-1245-4cde-a41b-51fbd38cb16f"
     }
   ],
   "set": "Default",
