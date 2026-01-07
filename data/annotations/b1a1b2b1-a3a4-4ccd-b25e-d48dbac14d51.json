@@ -752,12 +752,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Rio Grande"
+              "text": "A man discusses the economic situation in Puerto Rico with regard to Puerto Ricos debt to the US."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        }
+      ],
       "uuid": "c306e865-569b-48b6-9e4f-320f3408ed2a"
     },
     {
