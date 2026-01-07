@@ -1006,22 +1006,6 @@
       "uuid": "4216642d-2735-4329-bb64-09ab137337e4"
     },
     {
-      "start_time": 2490,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "poverty theme; suffer for the culture"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "f6d36f77-4ba8-4fd5-a93d-d49e29f86480"
-    },
-    {
       "start_time": 2592,
       "end_time": 0,
       "annotation": [
