@@ -1103,6 +1103,37 @@
       ],
       "tags": [],
       "uuid": "0bd46d29-0e31-4fa1-9198-4b0fa58cf267"
+    },
+    {
+      "start_time": 63,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Maria Luisa\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Luisa",
+          "category": "song title"
+        }
+      ],
+      "uuid": "bf5fcba9-f0b0-400c-80f8-53b7ec16dbac"
     }
   ],
   "set": "Resistimos_Annotations",
