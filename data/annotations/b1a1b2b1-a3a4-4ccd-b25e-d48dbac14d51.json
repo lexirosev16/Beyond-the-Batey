@@ -1299,7 +1299,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        }
+      ],
       "uuid": "12a2c652-f81a-47a3-b2b6-2864e52feb7f"
     }
   ],
