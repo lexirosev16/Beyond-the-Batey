@@ -520,13 +520,81 @@
     },
     {
       "start_time": null,
-      "end_time": null,
+      "end_time": 60,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Suena Ya! performed by the Delegación de la Diáspora (ArizonaBuffaloNYNew JerseyChicagoFloridaTijuana)b1 bAyai eh Ayai ehbSuena los tamboresque este baile es bomba  para gozarSuéname los tamboresy suéname los cuásque vamos a bailarbSuenasuena ya Suéname los tamboresque vamos a bailarVersobMandingo eh Mandingo eh Mandingo eh tambora bAhora bMandingo eh Mandingo eh Mandingo eh tamborabCuando baila este "
+              "text": "\"Suena los tambores\"  performed by the Delegación de la Diáspora",
+              "bold": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, Suena los tambores que este baile es bomba para gozar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suéname los tambores y suéname los cuás que vamos a bailar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena suena ya"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suéname los tambores que vamos a bailar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mandingo eh Mandingo eh Mandingo eh tambora "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora Mandingo eh Mandingo eh Mandingo eh tambora"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando baila este "
             }
           ]
         }
@@ -535,6 +603,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Suena los tambores",
+          "category": "song title"
         }
       ],
       "uuid": "741e161f-bf5a-404b-8f81-f62df9ce5535"
