@@ -181,6 +181,22 @@
         }
       ],
       "uuid": "b992c821-f52b-4d6a-86b6-50b2b755140a"
+    },
+    {
+      "start_time": 45,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Woman dancing bomba with a Covid era mask."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9def1fa8-3db3-4c68-b336-99561b2cb66a"
     }
   ],
   "set": "Huracan_Esoterica_Tropical_Annotations",
