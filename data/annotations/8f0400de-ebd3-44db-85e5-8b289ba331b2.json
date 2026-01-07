@@ -8,7 +8,57 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Suena los tambores bpor PlenibomSoneo Suena los tambores pintando Suena los tambores ritmos africanos Suena los tamboresvamos a bailar Tambores del uvia bTamborestamboresTamborestambores TamborestamboresTambores del mar  bTamborestambores de madera Tamborestambores tamborestamboresde mu buena b\nTamborestambores Tamborestambores Tambores del mar 3b4bTambores que cantanTambores que bailan \nbTamboresTambores Tambores del mar\n"
+              "text": "\"Suena los tambores\" performed by Plenibom",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena los tambores pintando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena los tambores ritmos africanos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena los tambores vamos a bailar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores del lluvia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores del mar\n"
             }
           ]
         }
@@ -17,6 +67,14 @@
         {
           "tag": "yubá",
           "category": "genre"
+        },
+        {
+          "tag": "Suena los tambores",
+          "category": "song title"
+        },
+        {
+          "tag": "Plenibomb",
+          "category": "speaker"
         }
       ],
       "uuid": "8ce2ed49-25a6-4b07-a01a-68bea3b8a084"
