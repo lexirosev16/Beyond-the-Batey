@@ -908,7 +908,18 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Oh reina lelé” (Catano)\nCoro\nOh reina lelé oh reina\nOh reina lelé\nSi la veo que le diré\nVersos\nSi la veo que le diré\nSi la veo que le diré"
+              "text": "“Oh reina lelé” (Catano)\nCoro",
+              "bold": true
+            },
+            {
+              "text": "\nOh reina lelé oh reina\nOh reina lelé\nSi la veo que le diré\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nSi la veo que le diré\nSi la veo que le diré"
             }
           ]
         }
