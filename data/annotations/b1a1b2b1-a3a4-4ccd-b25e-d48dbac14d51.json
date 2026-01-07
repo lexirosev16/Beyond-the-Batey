@@ -1060,13 +1060,21 @@
     },
     {
       "start_time": 3076,
-      "end_time": 0,
+      "end_time": 3090,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Puerto Rican Delegation in Carolina"
+              "text": "\"Estoy llamando\" Delegación de las Carolinas"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
@@ -1075,6 +1083,10 @@
         {
           "tag": "Estoy llamando",
           "category": "song title"
+        },
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
         }
       ],
       "uuid": "fc3b8d9a-3ef3-47c6-a28a-58cf17dcdd26"
