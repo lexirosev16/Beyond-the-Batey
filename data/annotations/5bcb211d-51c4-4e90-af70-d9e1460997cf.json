@@ -383,6 +383,31 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Caña no muero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "bold": true,
               "text": "\n"
             }
