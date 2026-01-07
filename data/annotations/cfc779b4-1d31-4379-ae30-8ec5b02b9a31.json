@@ -1,5 +1,163 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llevaste lo que no sirve "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora es el viento de cambio y acaso más pasar porti la colonia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aahora qué despierta boricua "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No les importa tu vida ahora "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jamás a ti ya tu quieras vive la soberanía para que la libertad secultiva "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tus sueños son las semillas para levantar nuestras fuerzas fue esa grande colectiva para la junta las colonias"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y nos vamos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y no la vamos a para"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sí node modo que se quiere quedar y no nosvamos a dejar no nos vamos a alejar nosotros vamos a luchar y nosotros vamosa luchar nosotros vamos a luchar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Huracán las sombras la junta para el cara dura llevaste lo que no sirve losvientos de cambio que son más las parasacudir la colonia de piel no les importa tu vida rivero soberanía de la soberanía y la soberanía de la soberanía y verdad soberanía la libertad se cultiva tus sueños son las semillas para levantar nuestras fuerzas puestas grandes colectivade colectiva con estas grandes colectiva"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Huracán "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una parábola junta colonias"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos a pagary no vamos a parar vamos a parar bieny "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No la vamos a pagar la vamos a pagar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos a parar estado de emergencia dio en se horizontal estado de emergencia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ni una mujer más de emergencia violencia horizontal estado de emergencia ni una mujer más pura al la junta bancaria y no la vamos a parar vamos a pagara la bailamos\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Huracán",
+          "category": "song title"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "25931ed1-c88d-4a79-bbc7-ef65eeece0fc"
+    }
+  ],
   "set": "Huracan_Esoterica_Tropical_Annotations",
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
   "source_id": "702ad805-ea18-4b37-9350-099659c5e986"
