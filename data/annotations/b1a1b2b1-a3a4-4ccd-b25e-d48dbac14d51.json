@@ -1489,6 +1489,31 @@
         }
       ],
       "uuid": "0a675766-3e61-410e-aa1c-24227d32f21a"
+    },
+    {
+      "start_time": 2260,
+      "end_time": 2263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mother dances bomba with her child on her hip. In Rio Piedras. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "gender"
+        }
+      ],
+      "uuid": "6ee96022-ccd9-45a7-ba66-f6c0b52531c3"
     }
   ],
   "set": "Resistimos_Annotations",
