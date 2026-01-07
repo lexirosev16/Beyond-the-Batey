@@ -1081,13 +1081,13 @@
     },
     {
       "start_time": 2139,
-      "end_time": 0,
+      "end_time": 2160,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Petra Cepeda discusses pedir piquete"
+              "text": "Petra Cepeda discusses pedir piquete. \"Estoy buscando un arbol\" is heard again in the background."
             }
           ]
         }
@@ -1096,6 +1096,10 @@
         {
           "tag": "Petra Cededa",
           "category": "speaker"
+        },
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
         }
       ],
       "uuid": "22f99753-83ca-44fe-bff6-d62108879cbf"
