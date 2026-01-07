@@ -52,6 +52,22 @@
       ],
       "tags": [],
       "uuid": "bf1db2ce-aabb-448e-a44d-8ecdf13d6f6e"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visuals show an Indigenous-presenting statue of liberty."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b1f5452a-0e4e-453c-8f0b-ab6a8fa7e416"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
