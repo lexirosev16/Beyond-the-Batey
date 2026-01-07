@@ -1285,6 +1285,22 @@
         }
       ],
       "uuid": "d3c57e7c-b0eb-44d2-af06-6c03a5c5420f"
+    },
+    {
+      "start_time": 1246,
+      "end_time": 1248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The saxophone and piano play the same diegetic jazz tune to transition between segments while visuals of the town Mayaguez along with the ocean are shown.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "12a2c652-f81a-47a3-b2b6-2864e52feb7f"
     }
   ],
   "set": "Resistimos_Annotations",
