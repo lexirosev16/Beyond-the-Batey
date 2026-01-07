@@ -883,6 +883,64 @@
       ],
       "tags": [],
       "uuid": "f66ab5d2-ad0b-42c6-951c-8b3639173791"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo canto bomba\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo canto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo canto"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahorita cerca el rio"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Buscando un senor para cantar conmigo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44c4da32-fbb9-4ec2-96b7-9b1cafa5b814"
     }
   ],
   "set": "Default",
