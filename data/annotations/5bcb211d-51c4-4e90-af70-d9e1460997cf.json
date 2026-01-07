@@ -142,6 +142,22 @@
         }
       ],
       "uuid": "16b5ee3c-83a3-432f-af02-422c6ca845ca"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"San Paule\" Norberto Sanchez"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fb536656-7b95-4f86-95fd-0fea8b78c9b2"
     }
   ],
   "set": "Default",
