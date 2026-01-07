@@ -216,6 +216,22 @@
       ],
       "tags": [],
       "uuid": "0c9a15fc-1868-4dde-a5b0-60683649c0f6"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Palo y Machete\" Carlos O. Padilla Caraballo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0dd425bd-d332-4d4b-8f69-0016dd4ebc82"
     }
   ],
   "set": "Default",
