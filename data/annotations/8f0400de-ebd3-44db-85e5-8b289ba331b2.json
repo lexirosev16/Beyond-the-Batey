@@ -473,27 +473,6 @@
     },
     {
       "start_time": null,
-      "end_time": null,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "San Mateo de Cangrejos performed by the Delegation del Cangrejoscomposed by Rafael Maya Alvarez bbCangrejosSan Mateo de Cangrejos  bSan Mateo de Cangrejos CangrejosSan Mateo de Cangrejos 3 bLinda bomba bCangrejosSan Mateo de Cangrejos 4 bSan Mateo de CangrejosSan Mateo de Cangrejos CangrejosSan Mateo de Cangrejos 5 bBaila ya bCangrejosSan Mateo de Cangrejos 6bSan Mateo de CangrejosSan Mateo de Cangrejos bCangrejosSan Mateo de Cangrejos "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "sicá",
-          "category": "genre"
-        }
-      ],
-      "uuid": "e7618a32-0d5f-45bf-aa89-6ae6e43644a0"
-    },
-    {
-      "start_time": null,
       "end_time": 60,
       "annotation": [
         {
