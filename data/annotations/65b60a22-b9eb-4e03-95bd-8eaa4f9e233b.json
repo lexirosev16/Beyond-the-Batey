@@ -1013,7 +1013,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Candela Colorao\" Compuesta por Nurka Hernandez Nadal"
+              "text": "\"Candela Colorao\" Compuesta por Nurka Hernandez Nadal",
+              "bold": true
             }
           ]
         },
