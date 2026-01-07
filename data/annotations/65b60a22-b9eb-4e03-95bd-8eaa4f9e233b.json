@@ -568,7 +568,114 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Familia de Alduén< b> coro< b> Mi familia está presente en la historia de la bomba   todos conocen a la familia Alduen desde Chicago a Mayagüez.   Mi familia está presente en la historia de la bomba   todos conocen a la familia Alduen desde Chicago a Mayagüez.  Mi familia está presente en la historia de la bomba   todos conocen a la familia desde Chicago a Mayagüez.   Mi familia está presente en la historia de la bomba   todos conocen a la familia desde Chicago a Mayagüez. verso < b> Suenan los tambores los mayores saben   también en la historia la familia está en pie.   El oeste tiene la familia Alduen   se dedica al ritmo que nunca va a perder.  coro< b> Mi familia está presente en la historia de la bomba todos conocen a la familia Alduen desde Chicago a Mayagüez. Mi familia está presente en la historia de la bomba todos conocen a la familia Alduen desde Chicago a Mayagüez. verso< b> Era la voz de mi tío abuelo   desde el cielo con mi mamá cantando en vuelo.   Rando desde la nube cuando yo canto   una lluvia de bomba que nos llena de encanto. coro< b> Mi familia está presente en la historia de la bomba todos conocen a la familia Alduen desde Chicago a Mayagüez. Mi familia está presente en la historia de la bomba todos conocen a la familia Alduen desde Chicago a Mayagüez. verso< b> Un aplauso para Mari y la familia Alduen   presente en la gloria que nunca se va a perder.   Todas esas familias que han dejado legado   cultural inmenso que siempre será cantado. "
+              "text": "\"Familia de Alduén\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi familia está presente en la historia de la bomba. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos conocen a la familia Alduen "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde Chicago a Mayagüez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi familia está presente en la historia de la bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos conocen a la familia Alduen"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suenan los tambores los mayores saben  también en la historia la familia está en pie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El oeste tiene la familia Alduen  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se dedica al ritmo que nunca va a perder"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Era la voz de mi tío abuelo  desde el cielo con mi mamá cantando en vuelo.   Rando desde la nube cuando yo canto   una lluvia de bomba que nos llena de encanto"
             }
           ]
         }
@@ -577,6 +684,22 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "Familia de Alduén",
+          "category": "song title"
         }
       ],
       "uuid": "636df512-bd20-4aa7-88c6-9d7c3b5c4acf"
