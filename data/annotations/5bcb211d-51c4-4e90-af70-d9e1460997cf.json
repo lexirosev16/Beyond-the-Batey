@@ -476,6 +476,22 @@
       ],
       "tags": [],
       "uuid": "f3549f8c-319e-435d-83d2-9461e029e46e"
+    },
+    {
+      "start_time": 2358,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hector Christina Cruz "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "348e543c-a231-40a8-96e7-a353c84dbe42"
     }
   ],
   "set": "Default",
