@@ -358,6 +358,22 @@
       ],
       "tags": [],
       "uuid": "ee50ee50-4d74-4e46-b1c3-586942c47025"
+    },
+    {
+      "start_time": 205,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A Black man is split on the screen between winning a soccer trophy in his left hand and holding a gun in his right hand. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b3acb3ce-209a-4c41-bb49-88a18b7d6dcb"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
