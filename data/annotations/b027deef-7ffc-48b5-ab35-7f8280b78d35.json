@@ -524,7 +524,31 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Hacemos las oraciones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " A mi cuatro velas lo aprende "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": "Descantamos "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cosas Lindas"
             }
           ]
         },
@@ -540,6 +564,14 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Los Africanos "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": "Los adoramos "
             }
           ]
@@ -548,7 +580,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Quieran a los hombre"
+              "text": "Quieran a los hombres"
             }
           ]
         }
