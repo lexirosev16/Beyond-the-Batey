@@ -1190,7 +1190,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Contrario "
+              "text": "\"Contrario mi holandé\"",
+              "bold": true
             }
           ]
         },
@@ -1198,7 +1199,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "mi holandé"
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contrario mi holandé\n\n"
             }
           ]
         }
