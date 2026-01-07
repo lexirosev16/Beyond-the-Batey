@@ -100,6 +100,31 @@
       ],
       "tags": [],
       "uuid": "223c5b7f-f7dd-41fa-9224-dc26391ed1a4"
+    },
+    {
+      "start_time": 229,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lyrics to \"Carita Linda\" Rauw Alejandro ",
+              "bold": true
+            },
+            {
+              "text": "\nWow, qué linda tú estás\nYo solo te miro a ti\nLa combinación de tu boca\nCon este tequila a las rocas\nSon mortal pa' mí\nSiento que ya estuve aquí una vez\nNo sé si te pasa lo mismo a ti también\nAmores van, amores vienen\nPero qué más da\nSi al final cada quien merece lo que da\nBajo las estrellas\nLa luna llena\nTú eres mi calma en esta tempestad\nHay caritas lindas que dejan huellas\nY la tuya no se puede borrar\nCómo me gustas tú a mí\nCómo me gustas tú a mí\nQuisiera hablarte de otro tema\nQue con las palabras no puedo decir\n¿Por qué no nos vamos de aquí? (es más)\nPor qué no nos vamos a vivir\nA una casita en la arena y nunca mudarnos de ahí\nDe ahí\n(Cosa nuestra)\nElla baila sola (ella baila sola)\nY yo la veo (y yo la veo)\nTú tienes un swing, tienes un piquete, tú tiene' un meneo\nPonte peligrosa que yo siempre me atrevo (yo siempre me atrevo)\nSi jugamos el juego de quien se enamora, yo pierdo primero\nY vuelvo a caer (no)\nNo me puedo contener (no)\nA tu carita de bandida\nY cómo me miras\nMe pones a delirar (ey)\nCositas a imaginar\nCúcame, mujer\n\"Ee-feh... mee... shee oh... n go-keh\"\nYuba cuembe\nPa' que lo baile usted\nEs una locura amarte desde la primera vez\nDurmiendo a mi lao te quiero todas las noches (Rauw)\nBajo las estrellas\nLa luna llena\nTú eres mi calma en esta tempestad\nHay caritas lindas que dejan huellas\nY la tuya no se puede borrar\nCómo me gustas tú a mí\nCómo me gustas tú a mí\nQuisiera hablarte de otro tema\nQue con las palabras no puedo decir\n¿Por qué no nos vamos de aquí? (es más)\nPor qué no nos vamos a vivir\nA una casita en la arena y nunca mudarnos de ahí\nDe ahí\nAy, mi niña hermosa, yo vine a ver\nComo corre la tormenta, yo vine a ver\nAy, niñita linda, yo vine a ver\nComo corre la tormenta, yo vine a ver\nAhí viene la tormenta, yo vine a ver\nCon la niña hermosa, la quiero ver\nEsas caras bonitas, las vine a ver\nComo corre la tormenta, yo vine a ver\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Linda",
+          "category": "song title"
+        }
+      ],
+      "uuid": "7cf304e0-32f0-44d6-851b-f1fb1dfc48e8"
     }
   ],
   "set": "Default",
