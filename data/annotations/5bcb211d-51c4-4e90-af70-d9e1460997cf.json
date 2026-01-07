@@ -989,6 +989,32 @@
         }
       ],
       "uuid": "33a5f423-f74e-46eb-8a50-1228c1f6bb89"
+    },
+    {
+      "start_time": 1509,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Medley Tradicional\" Domingo Publico",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Loiza"
+        }
+      ],
+      "uuid": "b3edaa4a-d512-4369-ba21-43a1ce4c723d"
     }
   ],
   "set": "Default",
