@@ -412,7 +412,122 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Campo yo vivo triste\"< b> más Ay Dios que será de mí si no bailo esta bomba me voy a morir campo yo vivo triste y cada día sufriendo más Ay Dios Qué será de mí si no bailo esta bomba me voy a morir   Campo yo vivo triste cada día sufriendo más Ay qué será de mí si no bail esta bomba me voy a morir  Ay campo yo vivo triste Ay cada día sufriendo más Ay Dios que será de mí si no bailo esta bomba me voy a morir   campo yo vivo triste cada día sufriendo más Ay Dios Qué será de mí si no bailo esta bomba me voy a morir  y es la bondad que consentimiento yo te quiero a ti cantar la bomba de mi borinque que aquí aisa te vengo a cantar aly campo campo yo vivo triste cada día suendo más Ay Dios Qué será de mí si no bailo nunca me voy a morir Solo te pido que repi el cuero y que suene también el cua para que nuestras ancestras allá desde el cielo la puedan cantar Ay campo campo yo vivo triste cada día sufriendo más Ay Dios será de mí si no bailo esta bomba me voy a morir Ay Camp yo vivo triste cada día sufriendo más Ay queé será de mí si no hailo esta bomba yo voy a morir   Campo yo vivo triste cada día sufriendo Ay Dios que sea de mí si no bailo esta bomba me voy a morir canto yo vivo triste cada día sufriendo má Ay Dios que será de mí si no ao esa bomba me voy a morir camb Yo vivo triste cada día sufriendo más Ay que será de mi si no bailo esta bomba me voy a morir "
+              "text": "\"Campo yo vivo triste\" performed by Melody",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Campo yo vivo triste "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cada dia sufirendo más "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay Dios que será de mí "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si no bailo esta bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me voy a morir "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y es la bondad que consentimiento yo te quiero a ti cantar la bomba de mi borinquen "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que aquí aisa te vengo a cantar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Solo te pido que repique y que suene también el cua para que nuestras ancestras allá desde el cielo la puedan cantar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
@@ -425,6 +540,22 @@
         {
           "tag": "Campo",
           "category": "song title"
+        },
+        {
+          "tag": "Campo yo vivo triste",
+          "category": "song title"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
         }
       ],
       "uuid": "d359f99f-6cf7-413b-9c6b-ebea1bdbd69f"
