@@ -886,12 +886,16 @@
           "category": "speaker"
         },
         {
-          "tag": "yubá",
-          "category": "genre"
-        },
-        {
           "tag": "Estoy Buscando un Arbol",
           "category": "song title"
+        },
+        {
+          "tag": "Petra Cededa",
+          "category": "speaker"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
         }
       ],
       "uuid": "a5eb6637-0af3-4263-898f-ebb8fceb668c"
