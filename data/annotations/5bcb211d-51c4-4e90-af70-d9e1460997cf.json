@@ -121,6 +121,27 @@
         }
       ],
       "uuid": "1fcd587e-e017-48a4-823b-d3e74b314943"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "323 bomba players in the past"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "16b5ee3c-83a3-432f-af02-422c6ca845ca"
     }
   ],
   "set": "Default",
