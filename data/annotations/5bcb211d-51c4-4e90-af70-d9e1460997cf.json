@@ -362,6 +362,28 @@
         }
       ],
       "uuid": "a2ff94dc-0a95-4995-80ca-58f126aadf03"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cimmaronaje\" Norka Hernandez Nadal Delegación de la Diáspora\n\n",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "9b096619-12f1-4694-a9a8-d0dd5aae301c"
     }
   ],
   "set": "Default",
