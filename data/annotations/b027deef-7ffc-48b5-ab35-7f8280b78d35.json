@@ -44,12 +44,12 @@
       ],
       "tags": [
         {
-          "tag": "transcription",
-          "category": "analysis"
-        },
-        {
           "tag": "Welmo E. Romero Joseph",
           "category": "speaker"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
         }
       ],
       "uuid": "e20b6603-054b-40bc-be30-e4c6283c5a2f"
