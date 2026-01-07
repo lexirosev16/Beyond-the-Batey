@@ -78,6 +78,27 @@
         }
       ],
       "uuid": "57be2b35-53df-4c15-a1ef-daa74c967e38"
+    },
+    {
+      "start_time": 900,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of the seven delegations in the Encuentros de Tambores and eligibility"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "cd5d51e2-0ef9-48f1-8f63-37b13a6b7b39"
     }
   ],
   "set": "Default",
