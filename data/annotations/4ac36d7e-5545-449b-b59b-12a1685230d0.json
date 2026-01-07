@@ -20,6 +20,22 @@
         }
       ],
       "uuid": "b96dd350-5563-4c68-b88c-89f4f762fb9d"
+    },
+    {
+      "start_time": 63,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Images of Afro-Puerto Rican food in Loiza shown"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75cc2a00-d254-4419-b9a8-5ccbe5473cb2"
     }
   ],
   "set": "Default",
