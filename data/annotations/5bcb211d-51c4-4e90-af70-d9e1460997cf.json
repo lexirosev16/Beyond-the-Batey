@@ -336,6 +336,9 @@
             {
               "text": "Coro",
               "bold": true
+            },
+            {
+              "text": "\nPreguntale a Martina donde esta la marinero?"
             }
           ]
         },
@@ -343,15 +346,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Martina donde esta la marinero?"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Martina donde esta los barrileros?"
+              "text": "Preguntale a Martina donde esta los barrileros?"
             }
           ]
         },
