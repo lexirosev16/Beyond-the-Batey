@@ -470,12 +470,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Discussion of political corruption. Videos of politicians are shown"
+              "text": "Jesus Cepeda discusses political corruption with regard to the embezzlement of public funds. Visuals display clips of various politicians. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        }
+      ],
       "uuid": "c12703ea-2069-4afe-885f-cb6c68ab0632"
     },
     {
