@@ -1218,7 +1218,41 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Bomba used for the 2019 protests. Clips of orotest music shown. Police whistles heard in the background."
+              "text": "Bomba used for the 2019 protests. Clips of protest music shown. Police whistles heard in the background."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Candela\" Marien Torres",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Candela"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Candela le amo"
             }
           ]
         }
@@ -1227,6 +1261,18 @@
         {
           "tag": "Candela",
           "category": "song title"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "2f065fc6-f3d2-47e0-98aa-dc726e093691"
