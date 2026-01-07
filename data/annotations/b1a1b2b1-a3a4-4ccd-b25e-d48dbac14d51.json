@@ -1126,6 +1126,22 @@
         }
       ],
       "uuid": "bf5fcba9-f0b0-400c-80f8-53b7ec16dbac"
+    },
+    {
+      "start_time": 571,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Sanse festivals are shown along with cabezudos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d6697a26-28f7-4515-90a4-b31eab049f4a"
     }
   ],
   "set": "Resistimos_Annotations",
