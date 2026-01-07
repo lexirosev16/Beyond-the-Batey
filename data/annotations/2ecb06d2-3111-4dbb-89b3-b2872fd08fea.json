@@ -225,6 +225,27 @@
       ],
       "tags": [],
       "uuid": "c7767656-86dd-44a9-967c-3bc38c70cf54"
+    },
+    {
+      "start_time": 147,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An Indigenous child stands beside a politician as he eats. The flag depicted is that of Gabon. The white man casually wipes his face with the flag, symbolizing his disregard for the nation and the greed and exploitation he represents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "55c5ec76-53b5-4a7f-aa8e-b8a142fc305b"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
