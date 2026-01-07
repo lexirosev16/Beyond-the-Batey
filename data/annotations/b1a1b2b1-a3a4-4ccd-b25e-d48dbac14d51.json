@@ -162,14 +162,21 @@
       "uuid": "dc2f956e-b1a4-4c4f-b142-7881f63e9ec6"
     },
     {
-      "start_time": 188,
-      "end_time": 240,
+      "start_time": 204,
+      "end_time": 210,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Don Rafael Cepeda discusses his grandfather."
+              "text": "Jesus Cepeda discusses his grandfather Rafael Cepeda. He mentions that he wrote an article for "
+            },
+            {
+              "text": "El Mundo i",
+              "italic": true
+            },
+            {
+              "text": "n regards to cultural preservation."
             }
           ]
         }
