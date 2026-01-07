@@ -254,6 +254,27 @@
         }
       ],
       "uuid": "d2929e2a-218c-4c18-b7d3-c73926ad1e05"
+    },
+    {
+      "start_time": 7820,
+      "end_time": 8400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "distortion",
+          "category": "environment"
+        }
+      ],
+      "uuid": "f6962224-0b8c-4f98-82da-76f2065a1f0f"
     }
   ],
   "set": "Default",
