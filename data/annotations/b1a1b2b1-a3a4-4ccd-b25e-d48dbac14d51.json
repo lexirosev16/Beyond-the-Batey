@@ -484,14 +484,14 @@
       "uuid": "c12703ea-2069-4afe-885f-cb6c68ab0632"
     },
     {
-      "start_time": 780,
-      "end_time": 0,
+      "start_time": 840,
+      "end_time": 870,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien discusses the lack of self-governance in Puerto Rico"
+              "text": "Marien discusses the lack of self-governance in Puerto Rico. She also discusses how motherhood has encouraged her to fight for freedom. "
             }
           ]
         }
@@ -504,6 +504,18 @@
         {
           "tag": "Marien Torres Lopez",
           "category": "speaker"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "feminism"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "d9abe469-061a-4d79-bd1d-2f04fc25e837"
