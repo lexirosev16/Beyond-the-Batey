@@ -380,9 +380,22 @@
               "text": "Hija de alma que yo te lo pido"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que baila esta bomba, cantaré contigo"
+            }
+          ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "reflexive"
+        }
+      ],
       "uuid": "e2497164-aa7c-44c4-9d59-366ec4726b93"
     }
   ],
