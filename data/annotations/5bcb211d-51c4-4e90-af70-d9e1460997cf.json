@@ -439,6 +439,27 @@
         }
       ],
       "uuid": "723be608-29b9-4c6b-a76c-f8b0f7e08cec"
+    },
+    {
+      "start_time": 2267,
+      "end_time": 2270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sustainability"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "0006fe8c-45e8-4b4d-9973-f071a584e83c"
     }
   ],
   "set": "Default",
