@@ -813,7 +813,96 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Radiante Flor\"< b> Verso 1\nFragante flor la vida es frágil\nPero el espíritu no se extingue\nSe crece y se alegra en el legado que veo Coro\nMis canciones son las flores\nMi recuerdo es su fragancia\nMis canciones son las flores\nMi recuerdo es su fragancia Verso 2\nPara que te acuerdes de mí\nTe dejo melodías en abundancia\nMis canciones son las flores\nMis recuerdos es su fragancia\nCon el color de mi voz\nSe vestirá la Trinitaria Coro\nMis canciones son las flores\nMi recuerdo es su fragancia\nMis versos son los colores\nSon de amanecer este día mejores\nMIs canciones son las flores\nMi recuerdo es su fragancia Verso 3\nAcompáñame a estar contigo estar contigo\nMis canciones son las flores\nMi recuerdo es fragancia\nMira pétalos de colores\nMis canciones son las flores\nMi recuerdo en tu fragancia Coro\nMis canciones son las flores\nMi recuerdo es su fragancia\nMe está picando una abeja\nY tengo el aguijón\nMis canciones son las flores\nY recuerdo en su fragancia Verso 4\nMe lo quité vamos a seguir aquí con la bomba\nCanciones son las flores\nY recuerdo en mi fragancia\nMis canciones son las flores\nTus pétalos son de colores\nMis canciones son las flores\nY recuerdo en su fragancia Coro\nMi voz se extiende\nY a ti siempre te acompaña\nCanciones son las flores\nMi recuerdo en su fragancia Verso 5\nRecuérdame en tus oraciones\nMis canciones son las flores\nMi recuerdo es su fragancia\nDe la tierra y los ancestros\nQue todo el mundo baila\nMis canciones son las flores\nMi recuerdo es su fragancia Coro\nMis canciones son las flores\nMi recuerdo es su fragancia\nAcompáñame a estar contigo a estar contigo\nCanciones son las flores\nMi recuerdo es su fragancia \n"
+              "text": "\"Radiante Flor\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mis canciones son las flores\nMi recuerdo es su fragancia\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nFragante flor la vida es frágil\nPero el espíritu no se extingue\nSe crece y se alegra en el legado que veo Coro\nMis canciones son las flores\nMi recuerdo es su fragancia\nMis canciones son las flores\nMi recuerdo es su fragancia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            },
+            {
+              "text": " \nPara que te acuerdes de mí\nTe dejo melodías en abundancia\n\nCon el color de mi voz\nSe vestirá la Trinitaria Coro\n\nMis versos son los colores\nSon de amanecer este día mejores\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Acompáñame a estar contigo estar contigo\nMira pétalos de colores\nMe está picando una abeja\nY tengo el aguijón"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nMe lo quité vamos a seguir aquí con la bomba\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tus pétalos son de colores\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nMi voz se extiende\nY a ti siempre te acompaña\nMis canciones son las flores\nMi recuerdo en su fragancia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nRecuérdame en tus oraciones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nDe la tierra y los ancestros\nQue todo el mundo baila\n\nAcompáñame a estar contigo a estar contigo\n"
             }
           ]
         }
@@ -822,6 +911,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Radiante flor",
+          "category": "song title"
         }
       ],
       "uuid": "cb83143f-93d7-4e7d-8a19-e83c03f04df1"
