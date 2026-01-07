@@ -163,6 +163,22 @@
         }
       ],
       "uuid": "fb536656-7b95-4f86-95fd-0fea8b78c9b2"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Felipe Junte"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb4b55d6-b26a-43b2-bbd3-f94dd67a5ee4"
     }
   ],
   "set": "Default",
