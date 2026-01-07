@@ -100,6 +100,22 @@
       ],
       "tags": [],
       "uuid": "8bc34ac6-b599-4401-9036-5a2d3f017d90"
+    },
+    {
+      "start_time": 73,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children are shown detained by fences and shouting."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69ba33b9-e143-40f0-bf99-a18ee61940ac"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
