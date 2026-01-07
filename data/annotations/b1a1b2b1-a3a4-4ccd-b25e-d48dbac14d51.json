@@ -666,7 +666,7 @@
       "uuid": "8928c5f6-444e-42d1-b676-f129d6382f6d"
     },
     {
-      "start_time": 1680,
+      "start_time": 1660,
       "end_time": 1827,
       "annotation": [
         {
@@ -678,7 +678,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
       "uuid": "7acd30ed-7530-4359-8948-7d8d67456965"
     },
     {
