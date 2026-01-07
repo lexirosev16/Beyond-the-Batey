@@ -374,6 +374,22 @@
       ],
       "tags": [],
       "uuid": "b3acb3ce-209a-4c41-bb49-88a18b7d6dcb"
+    },
+    {
+      "start_time": 213,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A woman breathes out vapor into the face of a police line."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4334ce2a-fe0d-4cfd-9bf4-7205648f445a"
     }
   ],
   "event_id": "1462abdf-6c42-4bd5-854f-c6c0463a6601",
