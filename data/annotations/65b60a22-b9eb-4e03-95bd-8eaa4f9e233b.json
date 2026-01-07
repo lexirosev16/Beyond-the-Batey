@@ -1376,7 +1376,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Porque me dicen morena\"< b> Verso 1\nAlguien gritó de lejos Morena venga para acá\nQué bello ese cabello te queda espectacular\nEntonces le dije Gracias muy amable es usted\nQuiero corregirle algo y espero lo tome bien Coro\nEs que yo no soy morena tampoco color café\nOrgullosamente negra y así yo siempre seré\n¿Por qué me dices morena si ese no es mi color?\nYo tengo una raza negra y de ella orgullosa estoy Verso 2\nDe mis ancestros y del sonido de mi tambor\nSoy negra de nacimiento cantadora de corazón\nPorque vive en mí la raza es que negra negra soy yo\n¿Por qué me dices morena si ese no es mi color? Coro\nYo tengo una raza negra y de ella orgullosa estoy\nAy yo tengo una raza pura guerreras y compasión\nQue levantaron pie de lucha y defendieron nuestro color\nYo tengo una raza negra y de ella orgullosa estoy Coro Final   < b>\nMi raza es mi color y de ella orgullosa estoy\n\n"
+              "text": "\"Porque me dicen morena\"",
+              "bold": true
+            },
+            {
+              "text": "\nAlguien gritó de lejos Morena venga para acá\nQué bello ese cabello te queda espectacular\nEntonces le dije morena Gracias muy amable es usted\nQuiero corregirle algo y espero lo tome bien \nEs que yo no soy morena tampoco color café\nOrgullosamente negra y así yo siempre seré\n¿Por qué me dices morena si ese no es mi color?\nYo tengo una raza negra y de ella orgullosa estoy "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            },
+            {
+              "text": "\nDe mis ancestros y del sonido de mi tambor\nSoy negra de nacimiento cantadora de corazón\nPorque vive en mí la raza es que negra negra soy yo\n¿Por qué me dices morena si ese no es mi color? \nYo tengo una raza negra y de ella orgullosa estoy\nAy yo tengo una raza pura guerreras y compasión\nQue levantaron pie de lucha y defendieron nuestro color\nYo tengo una raza negra y de ella orgullosa estoy \nMi raza es mi color y de ella orgullosa estoy"
             }
           ]
         }
@@ -1393,6 +1409,18 @@
         {
           "category": "_uncategorized_",
           "tag": "Identity"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "Porque me dicen morena",
+          "category": "song title"
         }
       ],
       "uuid": "62ce8e1f-49c6-4805-adfb-6a5b99b2ee44"
