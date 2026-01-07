@@ -109,7 +109,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Cimarron, Cimarrona\" Kily Vializ ",
+              "text": "\"Cimarrón, Cimarrona\" Kily Vializ of the Delegación del Oeste ",
               "bold": true
             }
           ]
@@ -119,6 +119,14 @@
         {
           "tag": "Delegación del Oeste",
           "category": "delegation"
+        },
+        {
+          "tag": "race",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "1fcd587e-e017-48a4-823b-d3e74b314943"
