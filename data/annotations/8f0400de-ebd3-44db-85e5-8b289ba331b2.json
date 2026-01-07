@@ -581,8 +581,8 @@
       "uuid": "741e161f-bf5a-404b-8f81-f62df9ce5535"
     },
     {
-      "start_time": null,
-      "end_time": null,
+      "start_time": 10080,
+      "end_time": 10140,
       "annotation": [
         {
           "type": "paragraph",
@@ -590,6 +590,14 @@
             {
               "text": "\"Oy quiero cantar\".  Composed by Ishmael Rodriguez",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oy yo quiero cantar "
             }
           ]
         },
