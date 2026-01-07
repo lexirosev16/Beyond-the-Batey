@@ -325,7 +325,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Preguntale a Martina\" John E. Rivera Rosa Delegacion de las Carolinas",
+              "text": "\"Preguntale a Martina\" John E. Rivera Rosa of the Delegación de las Carolinas",
               "bold": true
             }
           ]
@@ -338,7 +338,7 @@
               "bold": true
             },
             {
-              "text": "\nPreguntale a Martina donde esta la marinero?"
+              "text": "\nPreguntale a Martina donde esta los marineros?"
             }
           ]
         },
@@ -366,12 +366,24 @@
               "text": "Robaron el sombrero "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
         }
       ],
       "tags": [
         {
           "tag": "Delegación de las Carolinas",
           "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
         }
       ],
       "uuid": "a75573cb-5925-440b-9584-972ca048e64b"
