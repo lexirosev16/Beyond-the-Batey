@@ -172,12 +172,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Felipe Junte"
+              "text": "Felipe \"Junito\" Fiebres "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        }
+      ],
       "uuid": "cb4b55d6-b26a-43b2-bbd3-f94dd67a5ee4"
     }
   ],
