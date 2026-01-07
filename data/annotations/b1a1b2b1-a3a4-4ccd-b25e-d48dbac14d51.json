@@ -696,18 +696,31 @@
     },
     {
       "start_time": 1840,
-      "end_time": 0,
+      "end_time": 1842,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Bayamon"
+              "text": "Visuals show Bayamon."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        }
+      ],
       "uuid": "d3cbcc13-c272-4851-a528-861401ab1457"
     },
     {
