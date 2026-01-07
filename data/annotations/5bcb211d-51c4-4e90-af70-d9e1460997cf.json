@@ -184,6 +184,22 @@
         }
       ],
       "uuid": "cb4b55d6-b26a-43b2-bbd3-f94dd67a5ee4"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amaury Febres Delegacion del Este"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b09f85d3-a68e-42a4-b932-ddedd5996b44"
     }
   ],
   "set": "Default",
