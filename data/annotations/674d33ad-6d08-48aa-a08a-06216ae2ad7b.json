@@ -418,14 +418,15 @@
       "uuid": "57b0faa5-64ac-445e-995a-09cd11e7dd2e"
     },
     {
-      "start_time": 1170,
-      "end_time": 1180,
+      "start_time": 1153,
+      "end_time": 1213,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Una bomba que lo que viene "
+              "text": "\"Una bomba\"",
+              "bold": true
             }
           ]
         },
@@ -433,7 +434,56 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Una bomba que lo esta "
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una bomba pa lo que viene "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una bomba pa lo que esta "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una bomba pa lo que fueron "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En mi mente vivira "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una bomba pa lo que fueron "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En mi corazon esta "
             }
           ]
         }
