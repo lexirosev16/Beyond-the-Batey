@@ -663,7 +663,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Maria Colon"
+              "text": "\"Llanto la mano\" Maria Paula Colón ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llanto la mano (unintelligible) "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pa' Mayaguez"
             }
           ]
         }
