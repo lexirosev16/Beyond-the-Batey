@@ -163,19 +163,36 @@
     },
     {
       "start_time": 432,
-      "end_time": 492,
+      "end_time": 570,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Oi como suena mi bomba es mi voz\" Erimar Benitez Burgos\n\n",
+              "text": "\"Oi como suena mi bomba es mi voz\" Erimar Benitez Burgos\nCoro",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena"
+            },
+            {
+              "bold": true,
+              "text": "\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Mario Cepeda",
+          "category": "speaker"
+        }
+      ],
       "uuid": "d3d3a845-3a5b-4e57-8566-0fca66c463d3"
     }
   ],
