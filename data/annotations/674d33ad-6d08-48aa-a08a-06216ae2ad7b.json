@@ -720,6 +720,63 @@
       ],
       "tags": [],
       "uuid": "2c548c8c-fd1d-4871-bf0c-369edd778f20"
+    },
+    {
+      "start_time": 2819,
+      "end_time": 2880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Hay que linda la semilla\"\nCoro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay que linda la semilla "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que (unintelligible)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son mi guia"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son mi vida"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Unintelligible) "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d48ff11-69b1-4d19-9642-5d94974d07c8"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
