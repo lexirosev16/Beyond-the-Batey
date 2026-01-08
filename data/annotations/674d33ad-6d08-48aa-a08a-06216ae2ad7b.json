@@ -1280,7 +1280,7 @@
     },
     {
       "start_time": 4050,
-      "end_time": 0,
+      "end_time": 4140,
       "annotation": [
         {
           "type": "paragraph",
@@ -1300,7 +1300,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
       "uuid": "a6a18fef-ea46-4c67-aac5-ad6e5676a439"
     }
   ],
