@@ -973,6 +973,53 @@
         }
       ],
       "uuid": "2fbe3096-4cfe-4094-b668-a6a8e6d8bc2c"
+    },
+    {
+      "start_time": 3780,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Donde pica la ola\" Yasmin Gonzalez",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Donde pica la ola"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ecological"
+        }
+      ],
+      "uuid": "e323db27-6a87-4d20-aefe-e6fa06760f80"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
