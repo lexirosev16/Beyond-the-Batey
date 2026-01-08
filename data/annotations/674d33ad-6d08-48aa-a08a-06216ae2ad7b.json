@@ -1307,6 +1307,49 @@
         }
       ],
       "uuid": "a6a18fef-ea46-4c67-aac5-ad6e5676a439"
+    },
+    {
+      "start_time": 4260,
+      "end_time": 4380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Volvi\" Karla ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volvi"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ba1041d-d9bc-4152-8e4e-98407943a97f"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
