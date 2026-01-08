@@ -352,13 +352,64 @@
     },
     {
       "start_time": 924,
-      "end_time": 986,
+      "end_time": 1020,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Melody Stair "
+              "text": "\"Cuando suenan los barriles\" Melody Stair ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verso ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oye como suena mi barriles"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando suena mi barrile todo puede (unintelligible)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como suena los barriles todo pueden (unintelligible)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se a la bomba tu respire y me puede (responder)"
             }
           ]
         }
