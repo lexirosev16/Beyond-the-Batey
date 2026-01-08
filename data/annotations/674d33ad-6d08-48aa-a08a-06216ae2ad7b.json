@@ -418,19 +418,36 @@
       "uuid": "57b0faa5-64ac-445e-995a-09cd11e7dd2e"
     },
     {
-      "start_time": 1120,
+      "start_time": 1170,
       "end_time": 1180,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Una bomba que lo que viene "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una bomba que lo esta "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "memorial"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
       "uuid": "6c8485d9-f0e1-4a6a-bbf7-654064e93873"
     }
   ],
