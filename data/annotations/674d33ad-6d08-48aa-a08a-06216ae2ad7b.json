@@ -556,15 +556,40 @@
       "uuid": "2cf8b2e3-2740-4908-a06c-945e4b9ab05a"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 1850,
+      "end_time": 1920,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Jamienette Perez Mercado",
+              "text": "\"Que viva la candelaria\" Jamienette Pérez Mercado",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que viva la candelaria de la (ladrona) de Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que viva la candelaria (unintelligible)"
             }
           ]
         }
