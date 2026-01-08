@@ -337,6 +337,14 @@
               "text": "Canta "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es de Loiza"
+            }
+          ]
         }
       ],
       "tags": [],
