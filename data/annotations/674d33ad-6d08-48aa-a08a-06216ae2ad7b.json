@@ -146,6 +146,28 @@
       ],
       "tags": [],
       "uuid": "3c321ec1-d1fa-4242-85a1-a11fb3d14f9f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Esperando\" Ausuba",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ausuba",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "66f896cc-a1d2-40b7-b557-733058ce4d84"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
