@@ -554,6 +554,23 @@
         }
       ],
       "uuid": "2cf8b2e3-2740-4908-a06c-945e4b9ab05a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jamienette Perez Mercado",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc805827-436f-4aef-aa41-02709df17ab8"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
