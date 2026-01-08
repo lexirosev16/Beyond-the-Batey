@@ -596,6 +596,64 @@
       ],
       "tags": [],
       "uuid": "fc805827-436f-4aef-aa41-02709df17ab8"
+    },
+    {
+      "start_time": 2223,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Que yo me voy pa' monte\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que yo me voy pa' monte "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que yo me voy pa' mar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que yo me voy pa' rio"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que yo me voy (unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "761c1cfa-a902-4087-b307-90cfa4927dc4"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
