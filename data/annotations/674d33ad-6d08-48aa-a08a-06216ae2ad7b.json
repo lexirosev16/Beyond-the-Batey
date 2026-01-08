@@ -2,7 +2,7 @@
   "annotations": [
     {
       "start_time": 329,
-      "end_time": 440,
+      "end_time": 432,
       "annotation": [
         {
           "type": "paragraph",
@@ -35,7 +35,7 @@
           "children": [
             {
               "bold": true,
-              "text": "Verso(s)"
+              "text": "Versos"
             }
           ]
         },
@@ -115,7 +115,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay, Ay, Ay "
+              "text": "Ay Ay Ay "
             }
           ]
         },
@@ -123,7 +123,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay, Ay, Ay "
+              "text": "Ay Ay Ay "
             }
           ]
         },
@@ -132,14 +132,6 @@
           "children": [
             {
               "text": "Que me voy para bomba "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
             }
           ]
         }
