@@ -160,6 +160,23 @@
         }
       ],
       "uuid": "66f896cc-a1d2-40b7-b557-733058ce4d84"
+    },
+    {
+      "start_time": 432,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Oi como suena mi bomba es mi voz\" Erimar Benitez Burgos\n\n",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3d3a845-3a5b-4e57-8566-0fca66c463d3"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
