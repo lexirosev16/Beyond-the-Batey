@@ -654,6 +654,22 @@
       ],
       "tags": [],
       "uuid": "761c1cfa-a902-4087-b307-90cfa4927dc4"
+    },
+    {
+      "start_time": 2550,
+      "end_time": 2640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maria Colon"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c548c8c-fd1d-4871-bf0c-369edd778f20"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
