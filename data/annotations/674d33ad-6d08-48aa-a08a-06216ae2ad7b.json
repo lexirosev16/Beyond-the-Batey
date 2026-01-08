@@ -1277,6 +1277,31 @@
         }
       ],
       "uuid": "e323db27-6a87-4d20-aefe-e6fa06760f80"
+    },
+    {
+      "start_time": 4050,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maria Lourdes",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despierta un dia \nDespierta un dia  \nDespierta un dia \nEn una tierra nuestra (unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a6a18fef-ea46-4c67-aac5-ad6e5676a439"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
