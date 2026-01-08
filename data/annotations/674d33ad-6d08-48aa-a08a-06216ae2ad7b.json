@@ -499,6 +499,22 @@
         }
       ],
       "uuid": "6c8485d9-f0e1-4a6a-bbf7-654064e93873"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jessica Ruiz Sánchez "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2cf8b2e3-2740-4908-a06c-945e4b9ab05a"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
