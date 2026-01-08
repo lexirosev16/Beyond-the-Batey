@@ -508,12 +508,51 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jessica Ruiz Sánchez "
+              "text": "Jessica Ruiz Sánchez ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barilero tu esta' tocando "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El ritmo (unintelligible) respirando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto es mi canto"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
       "uuid": "2cf8b2e3-2740-4908-a06c-945e4b9ab05a"
     }
   ],
