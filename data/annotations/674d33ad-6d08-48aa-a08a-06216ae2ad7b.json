@@ -349,6 +349,22 @@
       ],
       "tags": [],
       "uuid": "c4afdcbf-3681-42d9-95b6-e5b38eea996f"
+    },
+    {
+      "start_time": 926,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Melody Stair "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57b0faa5-64ac-445e-995a-09cd11e7dd2e"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
