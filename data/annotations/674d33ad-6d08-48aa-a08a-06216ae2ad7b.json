@@ -925,6 +925,54 @@
         }
       ],
       "uuid": "af320766-3722-4309-bf8e-ab41899dd99f"
+    },
+    {
+      "start_time": 3505,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nelie Lebron Robles ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baila lo mi tambo(r)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nellie LeBrón y Paracumbé",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "2fbe3096-4cfe-4094-b668-a6a8e6d8bc2c"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
