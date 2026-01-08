@@ -168,6 +168,45 @@
         }
       ],
       "uuid": "66f896cc-a1d2-40b7-b557-733058ce4d84"
+    },
+    {
+      "start_time": 333,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Que yo me voy pa la bomba\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ivelisse Diaz",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "cc3a8748-c58e-473e-b7e2-efc78945ded2"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
