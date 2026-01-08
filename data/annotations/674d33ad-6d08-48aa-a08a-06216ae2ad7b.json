@@ -777,6 +777,22 @@
       ],
       "tags": [],
       "uuid": "4d48ff11-69b1-4d19-9642-5d94974d07c8"
+    },
+    {
+      "start_time": 2988,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guilbe"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "af320766-3722-4309-bf8e-ab41899dd99f"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
