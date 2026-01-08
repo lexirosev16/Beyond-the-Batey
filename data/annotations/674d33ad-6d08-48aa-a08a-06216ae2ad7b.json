@@ -1309,7 +1309,7 @@
       "uuid": "a6a18fef-ea46-4c67-aac5-ad6e5676a439"
     },
     {
-      "start_time": 4260,
+      "start_time": 4286,
       "end_time": 4380,
       "annotation": [
         {
@@ -1359,7 +1359,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Volvi hacer yo "
+              "text": "Volvi a ser yo "
             }
           ]
         },
@@ -1367,7 +1367,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Volvi cimarron "
+              "text": "Volvi hace cimarron "
             }
           ]
         },
@@ -1383,7 +1383,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A coquetar "
+              "text": "A coquetar"
             }
           ]
         },
@@ -1391,7 +1391,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Volvi Volvi"
+              "text": "Volvi a sanar  "
             }
           ]
         },
@@ -1399,7 +1399,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay que vovi "
+              "text": "Volvi volvi"
             }
           ]
         },
@@ -1407,7 +1407,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A ser volvi "
+              "text": "Ay que volvi "
             }
           ]
         },
@@ -1415,7 +1415,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Volvi volvi "
+              "text": "A ser muy feliz "
             }
           ]
         },
@@ -1423,7 +1423,39 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi volvi si que volvi "
+              "text": "Volvi "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volvi "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volvi "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Volvi "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si que volvi "
             }
           ]
         },
@@ -1439,7 +1471,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a rio "
+              "text": "Volvi a rio "
             }
           ]
         },
@@ -1447,7 +1479,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a mar "
+              "text": "Volvi a mar "
             }
           ]
         },
@@ -1455,7 +1487,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a llorar "
+              "text": "Volvi a llorar "
             }
           ]
         },
@@ -1463,7 +1495,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a sanar "
+              "text": "Volvi a sanar "
             }
           ]
         },
@@ -1479,7 +1511,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi pa; mi "
+              "text": "Volvi pa' mi "
             }
           ]
         },
@@ -1487,7 +1519,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "vovli pa ti "
+              "text": "Volvi pa' ti "
             }
           ]
         },
@@ -1495,7 +1527,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "si que volvi "
+              "text": "Si que volvi "
             }
           ]
         },
@@ -1503,7 +1535,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "asi que volvi "
+              "text": "Asi que volvi "
             }
           ]
         },
@@ -1511,7 +1543,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a sanar"
+              "text": "Volvi a sanar"
             }
           ]
         },
@@ -1519,7 +1551,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a jugar "
+              "text": "Volvi a jugar "
             }
           ]
         },
@@ -1527,7 +1559,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a bailar"
+              "text": "Volvi a bailar"
             }
           ]
         },
@@ -1535,7 +1567,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a sosas lugar "
+              "text": "Volvi a cosas lugar "
             }
           ]
         },
@@ -1543,7 +1575,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi a volvi "
+              "text": "Volvi a volvi "
             }
           ]
         },
@@ -1551,7 +1583,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "a ser de mi "
+              "text": "A ser yo te di "
             }
           ]
         },
@@ -1559,7 +1591,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "volvi volvi "
+              "text": "Volvi volvi "
             }
           ]
         },
@@ -1583,7 +1615,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "ya coquetar "
+              "text": "Ya coquetar "
             }
           ]
         },
@@ -1668,7 +1700,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
       "uuid": "0ba1041d-d9bc-4152-8e4e-98407943a97f"
     }
   ],
