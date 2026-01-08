@@ -779,7 +779,7 @@
       "uuid": "4d48ff11-69b1-4d19-9642-5d94974d07c8"
     },
     {
-      "start_time": 3017,
+      "start_time": 3016,
       "end_time": 3060,
       "annotation": [
         {
@@ -820,7 +820,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Llamando me"
+              "text": "Me Llamando me"
             }
           ]
         },
@@ -844,7 +844,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo le respondo "
+              "text": "Y yo le respondo"
             }
           ]
         },
@@ -852,7 +852,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Con este canto "
+              "text": "Con es'e canto "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que esta a dentro"
             }
           ]
         },
@@ -893,7 +901,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "(unintelligible) mi bomba yo "
+              "text": "Congo y mi bomba yo "
             }
           ]
         },
